@@ -1,0 +1,1161 @@
+PERSON John 
+PERSON William 
+PERSON James 
+PERSON George 
+PERSON Charles 
+PERSON Frank 
+PERSON Joseph 
+PERSON Robert 
+PERSON Henry 
+PERSON Harry 
+PERSON Edward 
+PERSON Thomas 
+ORG Walter 
+ORG Arthur 
+ORG Fred 
+PERSON Albert 
+PERSON Clarence 
+PERSON Roy 
+ORG Louis 
+PERSON Samuel 
+PERSON Charlie 
+ORG Ernest 
+PERSON Willie 
+ORG Earl 
+PERSON Richard 
+PERSON David 
+ORG Carl 
+PERSON Joe 
+PERSON Oscar 
+
+PERSON Paul 
+ORG Ralph 
+
+PERSON Andrew 
+PERSON Alfred 
+PERSON Raymond 
+PERSON Benjamin 
+ORG Elmer 
+PERSON Daniel 
+ORG Howard 
+PERSON Sam 
+PERSON Herbert 
+ORG Frederick 
+PERSON Lee 
+PERSON Peter 
+PERSON Eugene 
+PERSON Harold 
+PERSON Michael 
+
+ORG Herman 
+ORG Lewis 
+PERSON Lawrence 
+PERSON Jack 
+PERSON Ben 
+PERSON Francis 
+PERSON Ray 
+PERSON Claude 
+PERSON Martin 
+PERSON Tom 
+PERSON Floyd 
+PERSON Edgar 
+PERSON Jim 
+PERSON Edwin 
+PERSON Clyde 
+ORG Harvey 
+ORG Jacob 
+ORG Leonard 
+PERSON Otto 
+ORG Chester 
+PERSON Ed 
+PERSON Luther 
+
+PERSON Jessie 
+ORG Leroy 
+PERSON Patrick 
+PERSON Lester 
+
+ORG Stanley 
+ORG Archie 
+ORG Hugh 
+PERSON Oliver 
+PERSON Ira 
+PERSON Clifford 
+DATE August 
+ORG Alexander 
+ORG Eddie 
+ORG Leon 
+ORG Philip 
+PERSON Theodore 
+PERSON Allen 
+PERSON Anthony 
+PERSON Isaac 
+ORG Charley 
+
+ORG Russell 
+ORG Leslie 
+PERSON Bert 
+PERSON Bernard 
+ORG Grover 
+PERSON Sidney 
+ORG Emil 
+ORG Everett 
+PERSON Horace 
+PERSON Dan 
+ORG Julius 
+ORG Warren 
+PERSON Harrison 
+ORG Norman 
+PERSON Stephen 
+PERSON Dave 
+ORG Alex 
+ORG Alvin 
+PERSON Percy 
+ORG Victor 
+PERSON Wallace 
+
+ORG Wesley 
+ORG Willis 
+PERSON Milton 
+
+PERSON Cecil 
+ORG Otis 
+PERSON Glenn 
+PERSON Calvin 
+PERSON Gilbert 
+PERSON Rufus 
+PERSON Amos 
+PERSON Jess 
+PERSON Mack 
+ORG Nathan 
+PERSON Donald 
+PERSON Gus 
+ORG Jay 
+ORG Perry 
+PERSON Lonnie 
+PERSON Emmett 
+PERSON Jerry 
+PERSON Adolph 
+PERSON Dennis 
+PERSON Maurice 
+ORG Ross 
+PERSON Virgil 
+PERSON Marvin 
+PERSON Max 
+ORG Roscoe 
+PERSON Melvin 
+PERSON Aaron 
+PERSON Manuel 
+ORG Jasper 
+ORG Wilbur 
+PERSON Jose 
+ORG Morris 
+PERSON Sylvester 
+PERSON Rudolph 
+PERSON Claud 
+PERSON Clinton 
+ORG Franklin 
+PERSON Johnnie 
+PERSON Elbert 
+ORG Willard 
+ORG Alonzo 
+ORG Orville 
+ORG Ollie 
+ORG Curtis 
+PERSON Matthew 
+PERSON Hubert 
+ORG Cornelius 
+PERSON Silas 
+PERSON Mark 
+PERSON Mike 
+ORG Vernon 
+ORG Irvin 
+PERSON Fredrick 
+PERSON Phillip 
+PERSON Nicholas 
+ORG Clayton 
+PERSON Jeff 
+PERSON Nathaniel 
+ORG Reuben 
+ORG Adam 
+ORG Levi 
+PERSON Noah 
+PERSON Anton 
+PERSON Marshall 
+PERSON Simon 
+PERSON Bill 
+PERSON Felix 
+PERSON Jake 
+PERSON Kenneth 
+PERSON Ellis 
+PERSON Nelson 
+PERSON Abraham 
+ORG Irving 
+PERSON Alva 
+PERSON Glen 
+PERSON Hiram 
+PERSON Owen 
+ORG Roland 
+ORG Sherman 
+ORG Wilson 
+PERSON Christopher 
+PERSON Steve 
+
+ORG Elijah 
+ORG Jerome 
+PERSON Moses 
+PERSON Austin 
+PERSON Gordon 
+PERSON Julian 
+ORG Edd 
+PERSON Millard 
+PERSON Don 
+PERSON Vincent 
+PERSON Pete 
+ORG Wiley 
+PERSON Anderson 
+PERSON Bruce 
+
+ORG Clifton 
+PERSON Mose 
+GPE Cleveland 
+PERSON Forrest 
+PERSON Timothy 
+PERSON Bennie 
+PERSON Edmund 
+PERSON Andy 
+PERSON Bob 
+PERSON Monroe 
+PERSON Arnold 
+ORG Byron 
+ORG Harley 
+PERSON Roger 
+PERSON Clark 
+ORG Edmond 
+PERSON Wade 
+PERSON Juan 
+PERSON Abe 
+NORP Christian 
+ORG Eli 
+PERSON Ned 
+ORG Ora 
+PERSON Preston 
+ORG Asa 
+
+ORG Pearl 
+
+
+PERSON Karl 
+PERSON Miles 
+PERSON Lon 
+ORG Newton 
+ORG Leland 
+PERSON Nick 
+PERSON Wayne 
+ORG Wilfred 
+ORG Barney 
+PERSON Conrad 
+PERSON Gerald 
+
+GPE Columbus 
+ORG Earle 
+PERSON Ervin 
+PERSON Ezra 
+ORG Grady 
+EVENT Hugo 
+PERSON Mathew 
+ORG Solomon 
+ORG Laurence 
+PERSON Luke 
+PERSON Carroll 
+PERSON Isaiah 
+PERSON Johnie 
+PERSON Neal 
+PERSON Scott 
+PERSON Jefferson 
+PERSON Louie 
+ORG Riley 
+PERSON Tony 
+PERSON Archibald 
+PERSON Douglas 
+PERSON Ivan 
+PERSON Allan 
+ORG Ambrose 
+ORG Chauncey 
+
+PERSON Gustave 
+ORG Joel 
+
+PERSON Elias 
+ORG Boyd 
+PERSON Erwin 
+PERSON Jeremiah 
+PERSON Mary 
+ORG Antonio 
+ORG Benjiman 
+PERSON Emery 
+PERSON Jimmie 
+PERSON Omer 
+ORG Ferdinand 
+
+PERSON Marcus 
+PERSON Chris 
+PERSON Clay 
+GPE Dallas 
+ORG Emanuel 
+ORG Isiah 
+ORG Loyd 
+PERSON Murray 
+PERSON Pedro 
+PERSON Ulysses 
+PERSON Vern 
+ORG Cyrus 
+PERSON Dick 
+PERSON Morton 
+
+PERSON Burt 
+PERSON Dewitt 
+
+ORG Mitchell 
+PERSON Rex 
+ORG Spencer 
+PERSON Chas 
+ORG Emory 
+PERSON Neil 
+PERSON Pat 
+ORG Thurman 
+PERSON Walker 
+ORG Burton 
+PERSON Delbert 
+ORG Freeman 
+PERSON Garfield 
+ORG Lemuel 
+PERSON Matt 
+PERSON Wilbert 
+PERSON Clement 
+PERSON Hardy 
+PERSON Harmon 
+PERSON Lyman 
+PERSON Lynn 
+
+PERSON Malcolm 
+PERSON Stewart 
+ORG Van 
+PERSON Winfield 
+PERSON Loren 
+PERSON Merle 
+PERSON Myron 
+ORG Orval 
+
+PERSON Zack 
+PERSON Clem 
+ORG Dean 
+PERSON Fay 
+PERSON Jackson 
+ORG Napoleon 
+PERSON Ruben 
+ORG Verne 
+PERSON Dwight 
+PERSON Elisha 
+PERSON Elliott 
+ORG Elwood 
+PERSON Emmet 
+
+PERSON Josh 
+PERSON Joshua 
+PERSON Larry 
+ORG Lorenzo 
+
+ORG Albin 
+
+
+ORG Fletcher 
+
+PERSON Johnny 
+ORG Morgan 
+PERSON Allie 
+ORG Ellsworth 
+
+PERSON Evan 
+ORG Jonas 
+ORG Lowell 
+ORG Lyle 
+ORG Ramon 
+PERSON Taylor 
+ORG Tommie 
+PERSON Waldo 
+ORG Warner 
+PERSON Webster 
+ORG Alton 
+ORG Angus 
+ORG Arlie 
+PERSON Aubrey 
+ORG Clint 
+ORG Emile 
+PERSON Frederic 
+PERSON Gustav 
+ORG Hal 
+ORG Judson 
+
+
+PERSON Phil 
+ORG Pierce 
+PERSON Randolph 
+ORG Wm 
+PERSON Anna 
+NORP Christ 
+ORG Clair 
+PERSON Davis 
+GPE Leander 
+PERSON Mathias 
+PERSON Ronald 
+
+PERSON Steven 
+PERSON Ted 
+PERSON Abram 
+ORG Bishop 
+PERSON Dee 
+
+ORG Herschel 
+ORG Lige 
+PERSON Reginald 
+PERSON Rodney 
+PERSON Shirley 
+PERSON Alphonse 
+ORG Bertram 
+ORG Cleve 
+PERSON Dudley 
+GPE Israel 
+GPE Pablo 
+PERSON Prince 
+ORG Raleigh 
+ORG Truman 
+PERSON Valentine 
+PERSON Adrian 
+ORG Avery 
+
+PERSON Bennett 
+ORG Berry 
+PERSON Carlos 
+ORG Carlton 
+PERSON Dorsey 
+ORG Ford 
+ORG Francisco 
+
+
+NORP Hans 
+ORG Harris 
+PERSON Irwin 
+PERSON Lacy 
+PERSON Lawson 
+PERSON Lem 
+ORG Lonzo 
+
+ORG Seymour 
+PERSON Tim 
+ORG Turner 
+PERSON Wilburn 
+ORG Alford 
+ORG Antone 
+PERSON Arther 
+ORG Artie 
+PERSON Axel 
+ORG Cyril 
+PERSON Dewey 
+ORG Elton 
+PERSON Emma 
+ORG Evert 
+ORG Fritz 
+ORG Granville 
+PERSON Hallie 
+PERSON Johnson 
+PERSON Jonathan 
+ORG Junius 
+PERSON Lucian 
+ORG Mason 
+ORG Minnie 
+PERSON Norris 
+PERSON Omar 
+PERSON Orrin 
+
+PERSON Rollie 
+PERSON Rupert 
+PERSON Tomas 
+ORG Tracy 
+ORG Troy 
+GPE Washington 
+PERSON Wilber 
+ORG Wilford 
+PERSON Abner 
+PERSON Adelbert 
+ORG Adolphus 
+PERSON Al 
+
+ORG Coleman 
+ORG Elza 
+PERSON Gabriel 
+PERSON Garrett 
+PERSON Jean 
+
+ORG Logan 
+PERSON Margaret 
+ORG Maxwell 
+PERSON Nels 
+ORG Olin 
+
+PERSON Russel 
+PERSON Seth 
+ORG Smith 
+
+ORG Wilmer 
+ORG Abel 
+ORG Addison 
+PERSON Benton 
+ORG Bryant 
+GPE Casper 
+ORG Dale 
+ORG Evans 
+GPE Florence 
+
+PERSON Henderson 
+PERSON Hoyt 
+ORG Isadore 
+ORG Lionel 
+PERSON Madison 
+ORG Merrill 
+
+
+ORG Olaf 
+
+ORG Otho 
+PERSON Sol 
+ORG Tommy 
+PERSON Aloysius 
+PERSON Aron 
+ORG Augustine 
+ORG Bailey 
+PERSON Bartholomew 
+ORG Bernie 
+GPE Buford 
+ORG Cal 
+GPE Cicero 
+
+ORG Emerson 
+ORG Emmitt 
+PERSON Eric 
+ORG Hamp 
+PERSON Harlan 
+GPE Houston 
+PERSON Isom 
+
+ORG Justin 
+
+ORG Lincoln 
+PERSON Lindsay 
+
+GPE Paris 
+ORG Pleasant 
+ORG Reed 
+PERSON Rubin 
+PERSON Sandy 
+ORG Sanford 
+ORG Stuart 
+PERSON Vance 
+
+PERSON Winfred 
+PERSON Alan 
+ORG Alvah 
+PERSON Angelo 
+ORG Ashley 
+
+ORG Cleo 
+ORG Dominick 
+PERSON Edna 
+PERSON Elizabeth 
+ORG Elmo 
+PERSON Elmore 
+PERSON Enos 
+PERSON Frances 
+PERSON Gregory 
+PERSON Jason 
+PERSON Jules 
+PERSON Kirby 
+GPE Lafayette 
+PERSON Lindsey 
+
+
+PERSON Merritt 
+ORG Micheal 
+ORG Milford 
+ORG Miller 
+
+
+ORG Oren 
+PERSON Oswald 
+ORG Parker 
+
+
+ORG Terry 
+ORG Theo 
+ORG Watson 
+PERSON Willian 
+PERSON Wyatt 
+PERSON Alec 
+ORG Allison 
+
+ORG Benjaman 
+ORG Blaine 
+ORG Butler 
+PERSON Carey 
+
+ORG Ephraim 
+PERSON Eva 
+PERSON Gary 
+PERSON Giles 
+ORG Grace 
+ORG Howell 
+ORG Isham 
+PERSON Issac 
+PERSON Jimmy 
+PERSON Josiah 
+ORG Kelly 
+
+PERSON Maynard 
+ORG Perley 
+ORG Shelby 
+GPE Sydney 
+
+ORG Wendell 
+ORG Alden 
+
+PERSON Alice 
+PERSON Almon 
+PERSON Benedict 
+ORG Benito 
+ORG Bruno 
+PERSON Clemens 
+ORG Cloyd 
+ORG Eduardo 
+ORG Elgin 
+PERSON Elvin 
+PERSON Erick 
+
+ORG Finis 
+NORP French 
+ORG Hollis 
+ORG Hosea 
+ORG Ida 
+PERSON Lillian 
+ORG Lonie 
+PERSON Lucien 
+ORG Ludwig 
+PERSON Maggie 
+ORG Mervin 
+ORG Needham 
+ORG Noel 
+
+PERSON Orla 
+ORG Ottis 
+ORG Palmer 
+GPE Quincy 
+GPE Rolla 
+
+PERSON Sullivan 
+PERSON Toney 
+ORG Walton 
+PERSON Williams 
+ORG Antoine 
+PERSON Baxter 
+ORG Benjamine 
+PERSON Bonnie 
+ORG Bradley 
+PERSON Brady 
+
+PERSON Burrell 
+ORG Cary 
+ORG Collie 
+PERSON Connie 
+PERSON Cora 
+PERSON Dayton 
+PERSON Delos 
+GPE Denver 
+PERSON Doc 
+ORG Dow 
+PERSON Duncan 
+PERSON Edith 
+PERSON Eldridge 
+PERSON Ernie 
+PERSON Ernst 
+
+ORG Freddie 
+PERSON Gabe 
+PERSON Gertrude 
+ORG Godfrey 
+
+PERSON Gottlieb 
+PERSON Gustaf 
+PERSON Harve 
+
+ORG Henery 
+PERSON Hurley 
+ORG Ignatius 
+
+PERSON Jesus 
+PERSON Joeseph 
+PERSON Jonah 
+ORG Jule 
+PERSON Laura 
+PERSON Lew 
+PERSON Linwood 
+PERSON Lou 
+PERSON Louise 
+PERSON Lum 
+ORG Manley 
+ORG Mansfield 
+PERSON Marie 
+ORG Maxie 
+PERSON Miguel 
+ORG Mont 
+ORG Nellie 
+PERSON Norbert 
+PERSON Obie 
+ORG Odell 
+
+PERSON Rafael 
+ORG Ras 
+ORG Rogers 
+ORG Rolland 
+PERSON Sammie 
+GPE Santiago 
+ORG Selmer 
+PERSON Squire 
+PERSON Stanton 
+PERSON Terrence 
+PERSON Travis 
+PERSON Uriah 
+PERSON Vernie 
+ORG Wylie 
+
+ORG Alpha 
+ORG Alphonso 
+PERSON Andres 
+PERSON Arvid 
+
+PERSON Bart 
+ORG Barton 
+
+ORG Bernice 
+PERSON Bertie 
+PERSON Billie 
+
+ORG Brooks 
+
+
+PERSON Caleb 
+PERSON Carrie 
+PERSON Carson 
+PERSON Carter 
+ORG Chalmer 
+
+ORG Clarance 
+GPE Clovis 
+ORG Cornelious 
+
+ORG Dell 
+PERSON Dennie 
+PERSON Elie 
+PERSON Elsie 
+ORG Ennis 
+PERSON Ethel 
+ORG Federico 
+ORG Felipe 
+PERSON Ferd 
+
+PERSON Gerhard 
+GPE Guilford 
+ORG Hamilton 
+ORG Hattie 
+PERSON Hayden 
+PERSON Hazel 
+ORG Hermon 
+ORG Hilliard 
+PERSON Hunter 
+
+ORG Jones 
+DATE June 
+
+ORG Leopold 
+ORG Lillard 
+PERSON Luis 
+PERSON Mabel 
+PERSON Malachi 
+
+PERSON Maude 
+ORG Merton 
+ORG Newell 
+PERSON Newt 
+ORG Odis 
+ORG Ples 
+
+PERSON Roderick 
+
+
+PERSON Sampson 
+ORG Sing 
+PERSON Thad 
+ORG Tillman 
+ORG Virgle 
+ORG Weldon 
+GPE Wellington 
+PERSON Wong 
+
+PERSON Xavier 
+PERSON Zeb 
+ORG Alcide 
+ORG Alto 
+PERSON Benny 
+PERSON Bryan 
+ORG Burnie 
+GPE Carleton 
+PERSON Cassius 
+ORG Charlton 
+ORG Chesley 
+ORG Craig 
+PERSON Dana 
+PERSON Dawson 
+PERSON Denis 
+PERSON Dexter 
+PERSON Dominic 
+ORG Dora 
+ORG Duke 
+ORG Eben 
+PERSON Eldon 
+PERSON Eula 
+ORG Everette 
+PERSON Finley 
+ORG Furman 
+PERSON Garnett 
+ORG Gideon 
+ORG Griffin 
+PERSON Guss 
+PERSON Halsey 
+ORG Haywood 
+GPE Heber 
+PERSON Helen 
+
+PERSON Huey 
+PERSON Jens 
+ORG Keith 
+PERSON Laverne 
+ORG Lemon 
+PERSON Llewellyn 
+
+PERSON Mckinley 
+PERSON Meyer 
+ORG Mortimer 
+ORG Newman 
+ORG Ola 
+ORG Orie 
+PERSON Orin 
+ORG Orrie 
+ORG Polk 
+PERSON Raoul 
+PERSON Reid 
+GPE Reno 
+PERSON Roby 
+ORG Rollo 
+ORG Romeo 
+ORG Rowland 
+ORG Rueben 
+PERSON Saul 
+PERSON Shellie 
+PERSON Sumner 
+ORG Thaddeus 
+PERSON Tobias 
+ORG Urban 
+PERSON Vester 
+PERSON Vivian 
+
+ORG Waymon 
+ORG Wess 
+PERSON Wilton 
+
+PERSON Zollie 
+ORG Abb 
+ORG Addie 
+ORG Alpheus 
+ORG Ammon 
+PERSON Annie 
+ORG Ansel 
+PERSON Arden 
+ORG Arley 
+ORG Armand 
+ORG Atlas 
+ORG Augusta 
+ORG Bascom 
+PRODUCT Bentley 
+PERSON Bertha 
+
+PERSON Birt 
+ORG Brice 
+ORG Burgess 
+ORG Carlie 
+PERSON Carlisle 
+PERSON Charly 
+ORG Chauncy 
+PERSON Claire 
+PERSON Claudius 
+ORG Claus 
+
+PERSON Colin 
+
+PERSON Conard 
+GPE Conway 
+ORG Cornell 
+
+PERSON Davie 
+ORG Deforest 
+PERSON Dempsey 
+PERSON Dolph 
+ORG Earley 
+ORG Elbridge 
+ORG Elick 
+ORG Eligah 
+ORG Elroy 
+PERSON Elva 
+PERSON Esau 
+
+PERSON Esther 
+ORG Ewell 
+ORG Ewing 
+ORG Fleming 
+PERSON Florian 
+PERSON Frazier 
+ORG Harper 
+PERSON Harrie 
+ORG Harvy 
+ORG Hector 
+ORG Hezekiah 
+PERSON Horatio 
+PERSON Hughie 
+ORG Hyman 
+ORG Ingram 
+ORG Irvine 
+PERSON Jennie 
+PERSON Johny 
+PERSON Josephine 
+PERSON Josephus 
+GPE Junious 
+ORG Lafe 
+PERSON Lambert 
+
+ORG Lenard 
+PERSON Lillie 
+PERSON Lue 
+ORG Mac 
+ORG Mae 
+ORG Mart 
+ORG Mell 
+PERSON Melville 
+ORG Mildred 
+ORG Monte 
+ORG Murphy 
+PERSON Myles 
+ORG Neely 
+
+PERSON Olen 
+PERSON Olie 
+ORG Orlando 
+PERSON Owens 
+ORG Pearlie 
+PERSON Peyton 
+PERSON Pierre 
+ORG Rance 
+PERSON Randall 
+
+
+PERSON Rob 
+PERSON Robbie 
+ORG Rollin 
+ORG Salvatore 
+ORG Sanders 
+PERSON Sie 
+PERSON Sigurd 
+PERSON Simeon 
+ORG Talmage 
+PERSON Teddy 
+ORG Thornton 
+
+ORG Verner 
+PERSON Webb 
+PERSON Willam 
+PERSON Winston 
+PERSON Wright 
+
+PERSON Adolfo 
+PERSON Alberto 
+PERSON Alejandro 
+ORG Alfonso 
+
+GPE Almus 
+ORG Alonza 
+PERSON Alphonsus 
+ORG Alvie 
+GPE Amasa 
+PERSON Amon 
+PERSON Andre 
+ORG Angel 
+ORG Arlington 
+ORG Armond 
+ORG Armstead 
+
+GPE Asbury 
+PERSON Asher 
+ORG Auburn 
+PERSON Bartlett 
+ORG Belton 
+PERSON Benard 
+ORG Beryl 
+PERSON Billy 
+PERSON Blake 
+PERSON Booker 
+PERSON Brown 
+PERSON Bush 
+ORG Byrd 
+PERSON Cameron 
+PERSON Carol 
+ORG Carrol 
+PERSON Casey 
+PRODUCT Ceaser 
+ORG Cedric 
+ORG Chase 
+PERSON Clare 
+ORG Clarke 
+ORG Commodore 
+
+ORG Dalton 
+ORG Danial 
+PERSON Darrell 
+PERSON Delmar 
+PERSON Donato 
+ORG Doyle 
+ORG Dozier 
+
+ORG Durward 
+
+PERSON Egbert 
+ORG Elgie 
+ORG Ellwood 
+
+ORG Elwin 
+PERSON Ely 
+
+ORG Ephriam 
+ORG Essie 
+ORG Estell 
+PERSON Gaines 
+
+ORG Garnet 
+
+PERSON Graham 
+ORG Graydon 
+PERSON Guadalupe 
+ORG Gurney 
+ORG Gussie 
+PERSON Gustavus 
+ORG Harland 
+ORG Hartford 
+PERSON Hershel 
+ORG Hillard 
+PERSON Hillary 
+ORG Hilton 
+ORG Hjalmer 
+GPE Holland 
+ORG Hubbard 
+PERSON Huston 
+
+
+ORG Jenkins 
+PERSON Joesph 
+PERSON Julious 
+ORG Justo 
+ORG Justus 
+ORG Kelley 
+
+PERSON Kirk 
+PERSON Kyle 
+ORG Lamar 
+ORG Larkin 
+PERSON Lauren 
+PERSON Lea 
+ORG Levie 
+PERSON Linnie 
+PERSON Livingston 
+PERSON Lula 
+PERSON Magnus 
+ORG Mahlon 
+ORG Manford 
+PERSON Marian 
+
+PERSON Martha 
+
+PERSON Matthias 
+DATE May 
+ORG Mcclellan 
+GPE Melbourne 
+PRODUCT Merlin 
+ORG Mitchel 
+PERSON Moe 
+PERSON Murdock 
+GPE Myrtle 
+PERSON Nora 
+ORG Okey 
+PERSON Oran 
+PERSON Orlo 
+ORG Orvin 
+ORG Ottie 
+PERSON Payton 
+PERSON Percival 
+
+PERSON Plummer 
+PERSON Powell 
+PERSON Purl 
+ORG Radford 
+PERSON Randle 
+PERSON Reinhold 
+PERSON Rene 
+PERSON Rice 
+GPE Richmond 
+ORG Roe 
+PERSON Rosco 
+
+
+PERSON Ruth 
+PERSON Samual 
+
+PERSON Sarah 
+PERSON Schuyler 
+ORG Shade 
+ORG Shannon 
+PERSON Shedrick 
+ORG Shelly 
+PERSON Shelton 
+
+
+ORG Stella 
+ORG Terrell 
+ORG Tex 
+ORG Theron 
+ORG Tilmon 
+
+
+ORG Vanderbilt 
+ORG Vicente 
+ORG Volney 
+PERSON Wallie 
+PERSON Weston 
+ORG Whitfield 
+PERSON Wilhelm 
+ORG Woodfin 
+ORG Woodie 
+PERSON Woodson 

@@ -1,0 +1,5275 @@
+PERSON Mary 
+PERSON Betty 
+PERSON Dorothy 
+PERSON Helen 
+PERSON Margaret 
+PERSON Doris 
+PERSON Barbara 
+PERSON Ruth 
+PERSON Shirley 
+
+GPE Virginia 
+PERSON Jean 
+PERSON Joan 
+PERSON Dolores 
+PERSON Elizabeth 
+PERSON Frances 
+PERSON Lois 
+PERSON Mildred 
+PERSON Evelyn 
+PERSON Anna 
+PERSON Alice 
+PERSON Marie 
+PERSON Joyce 
+PERSON Phyllis 
+ORG Norma 
+
+PERSON Martha 
+ORG Gloria 
+PERSON Irene 
+ORG Marjorie 
+PERSON Louise 
+PERSON Nancy 
+PERSON Marilyn 
+PERSON Catherine 
+GPE Florence 
+
+PERSON Annie 
+PERSON Eleanor 
+GPE Beverly 
+PERSON Lillian 
+PERSON Thelma 
+PERSON Lorraine 
+PERSON Geraldine 
+PERSON Gladys 
+PERSON Josephine 
+PERSON Ann 
+PERSON Donna 
+DATE June 
+PERSON Theresa 
+
+PERSON Edna 
+PERSON Rita 
+PERSON Marion 
+
+PERSON Bernice 
+PERSON Ethel 
+PERSON Lucille 
+PERSON Audrey 
+PERSON Edith 
+PERSON Juanita 
+PERSON Wanda 
+PERSON Jane 
+PERSON Carol 
+PERSON Hazel 
+PERSON Clara 
+PERSON Wilma 
+PERSON Elaine 
+PERSON Sarah 
+PERSON Emma 
+PERSON Peggy 
+PERSON Esther 
+ORG Beatrice 
+GPE Charlotte 
+PERSON Delores 
+PERSON Marian 
+PERSON Willie 
+PERSON Carolyn 
+PERSON Elsie 
+PERSON Billie 
+
+PERSON Vivian 
+PERSON Janet 
+PERSON Eva 
+PERSON Katherine 
+PERSON Maxine 
+PERSON Bonnie 
+PERSON Jacqueline 
+PERSON Julia 
+PERSON Kathleen 
+PERSON Laura 
+
+
+PERSON Bertha 
+PERSON Agnes 
+PERSON Gertrude 
+
+PERSON Ellen 
+PERSON Eileen 
+ORG Vera 
+PERSON Maria 
+PERSON Joanne 
+PERSON Ella 
+PERSON Lillie 
+
+PERSON Arlene 
+
+PERSON Bessie 
+PERSON Margie 
+
+PERSON Jessie 
+WORK_OF_ART Violet 
+PERSON Sally 
+ORG Nellie 
+PERSON Pearl 
+PERSON Lucy 
+GPE Georgia 
+GPE Myrtle 
+PERSON Patsy 
+PERSON Sylvia 
+PERSON Ramona 
+PERSON Mattie 
+PERSON Leona 
+PERSON Christine 
+PERSON Minnie 
+PERSON Anita 
+PERSON Roberta 
+PERSON Loretta 
+PERSON Velma 
+PERSON Rosa 
+GPE Geneva 
+PERSON Jeanette 
+PERSON Mae 
+PERSON Sara 
+PERSON Claire 
+PERSON Harriet 
+ORG Stella 
+PERSON Janice 
+
+PERSON Naomi 
+PERSON Jo 
+
+PERSON Genevieve 
+GPE Alberta 
+PERSON Joann 
+PERSON Eunice 
+PERSON Bobbie 
+PERSON Mabel 
+PERSON Carrie 
+PERSON Muriel 
+
+PERSON Emily 
+PERSON Jennie 
+NORP Cora 
+PERSON Rosie 
+PERSON Marguerite 
+
+PERSON Hilda 
+GPE Lula 
+PERSON Constance 
+PERSON Darlene 
+PERSON Beulah 
+PERSON Blanche 
+PERSON Lola 
+
+PERSON Inez 
+PERSON Erma 
+PERSON Rachel 
+PERSON Yvonne 
+
+PERSON Laverne 
+PERSON Caroline 
+PERSON Jeannine 
+PERSON Madeline 
+ORG Imogene 
+PERSON Rosalie 
+PERSON Mamie 
+
+ORG Ada 
+
+
+PERSON Rebecca 
+PERSON Daisy 
+PERSON Faye 
+PERSON Irma 
+PERSON Miriam 
+PERSON Colleen 
+PERSON Carmen 
+
+PERSON Marcella 
+ORG Bettie 
+
+PERSON Teresa 
+PERSON Nora 
+PERSON Eloise 
+PERSON Johnnie 
+
+PERSON Nina 
+
+PERSON Antoinette 
+PERSON Charlene 
+PERSON Jeannette 
+PERSON Susie 
+PERSON Rosemarie 
+PERSON Ernestine 
+PERSON Estelle 
+PERSON Olga 
+PERSON Gwendolyn 
+GPE Regina 
+PERSON Bette 
+PERSON Susan 
+
+PERSON Maggie 
+ORG Lorene 
+PERSON Priscilla 
+PERSON Sadie 
+GPE Victoria 
+ORG Melba 
+PERSON Winifred 
+PERSON Diane 
+ORG Angelina 
+ORG Henrietta 
+PERSON Katie 
+ORG Lydia 
+PERSON Annette 
+PERSON Janie 
+GPE Bettye 
+PERSON Freda 
+
+PERSON Amelia 
+PERSON Ollie 
+
+
+PERSON Angela 
+
+
+PERSON Deloris 
+ORG Nettie 
+
+PERSON Connie 
+PERSON Therese 
+PERSON Judith 
+ORG Luella 
+PERSON Nadine 
+PERSON Fay 
+
+
+PERSON Reba 
+PERSON Natalie 
+
+PERSON Patty 
+PERSON Sophie 
+PERSON Lela 
+ORG Sallie 
+PERSON Paula 
+PERSON Dorthy 
+PERSON Adeline 
+PERSON Etta 
+PERSON Angeline 
+PERSON Marianne 
+PERSON Suzanne 
+PERSON Veronica 
+PERSON Pat 
+PERSON Cleo 
+PERSON Marcia 
+PERSON Addie 
+PERSON Leola 
+
+PERSON Dorothea 
+PERSON Selma 
+PERSON Jewell 
+
+PERSON Adele 
+PERSON Clarice 
+PERSON Jacquelyn 
+ORG Lucile 
+PERSON Elva 
+ORG Mavis 
+PERSON Diana 
+PERSON Goldie 
+PERSON Corinne 
+ORG Elinor 
+
+PERSON Effie 
+PERSON Estella 
+ORG Elvira 
+PERSON Jackie 
+PERSON Jimmie 
+PERSON Celia 
+PERSON Linda 
+PERSON Cecilia 
+PERSON Mona 
+PERSON Carmela 
+GPE Isabelle 
+PERSON Willa 
+PERSON Myra 
+ORG Nell 
+PERSON Cynthia 
+
+PERSON Helene 
+PERSON Rhoda 
+PERSON Bernadine 
+PERSON Ila 
+PERSON Annabelle 
+PERSON Lenora 
+
+
+PERSON Frankie 
+PERSON Lee 
+PERSON Lou 
+PERSON Francis 
+PERSON Gracie 
+
+ORG Arline 
+PERSON Robert 
+PERSON Lenore 
+
+PERSON Myrna 
+PERSON Lupe 
+NORP Rosetta 
+ORG Elnora 
+PERSON John 
+PERSON Rena 
+ORG Carmella 
+PERSON Eugenia 
+PERSON James 
+ORG Polly 
+GPE Guadalupe 
+PERSON Renee 
+
+
+PERSON Ruthie 
+
+WORK_OF_ART Flossie 
+PERSON Nannie 
+PERSON Maryann 
+PERSON Neva 
+GPE Pearlie 
+PERSON Margery 
+PERSON Josie 
+PERSON Dona 
+GPE Elma 
+PERSON Sharon 
+
+ORG Virgie 
+PERSON Aileen 
+PERSON Loraine 
+PERSON Mollie 
+
+PERSON Yolanda 
+ORG Aurora 
+PERSON Zelma 
+PERSON Amy 
+
+ORG Earnestine 
+PERSON Eddie 
+ORG Matilda 
+PERSON Betsy 
+PERSON Cornelia 
+PERSON Sybil 
+PERSON Dollie 
+PERSON Frieda 
+PERSON William 
+PERSON Lavonne 
+PERSON Rosella 
+PERSON Christina 
+PERSON Tommie 
+PERSON Consuelo 
+PERSON Sheila 
+PERSON Robbie 
+ORG Avis 
+PERSON Bernadette 
+ORG Nola 
+PERSON Carole 
+PERSON Harriett 
+
+PERSON Winnie 
+PERSON Corrine 
+GPE Beverley 
+
+PERSON Claudia 
+PERSON Leah 
+PERSON Maureen 
+
+PERSON Lora 
+
+PERSON Judy 
+
+
+PERSON Melva 
+GPE Odessa 
+PERSON Letha 
+PERSON Lorna 
+
+
+PERSON Antonia 
+PERSON Leila 
+ORG Greta 
+PERSON Iona 
+PERSON Jerry 
+WORK_OF_ART Leatrice 
+PERSON Joanna 
+
+PERSON Maude 
+PERSON Aline 
+PERSON Bertie 
+ORG Mercedes 
+ORG Reva 
+PERSON Beth 
+PERSON Charles 
+PERSON Georgie 
+
+PERSON Eliza 
+
+PERSON Gilda 
+PERSON Bennie 
+PERSON Hannah 
+PERSON Ophelia 
+
+PERSON Sandra 
+GPE Helena 
+ORG Lilly 
+PERSON Ilene 
+ORG Lorena 
+
+PERSON Alyce 
+
+PERSON Evangeline 
+ORG Lessie 
+PERSON Callie 
+PERSON Doreen 
+PERSON Allie 
+PERSON Jannie 
+ORG Freddie 
+PERSON Berniece 
+PERSON Dorris 
+PERSON Johanna 
+PERSON Delphine 
+PERSON Janis 
+PERSON Philomena 
+PERSON Merle 
+PERSON Dawn 
+
+
+GPE Adelaide 
+PERSON Hester 
+ORG Esperanza 
+PERSON Joe 
+
+PERSON Julie 
+
+PERSON Elena 
+
+
+ORG Alene 
+PERSON Amanda 
+PERSON Bobby 
+
+PERSON Zelda 
+PERSON Clare 
+
+PERSON Gwen 
+
+
+
+PERSON Angie 
+
+PERSON Ione 
+PERSON Jenny 
+ORG Madge 
+
+GPE Iola 
+PERSON Josefina 
+PERSON Allene 
+PERSON George 
+PERSON Marceline 
+GPE Marietta 
+PERSON Richard 
+
+PERSON Maudie 
+PERSON Althea 
+PERSON Vilma 
+GPE Bonita 
+PERSON Jeanine 
+PERSON Katharine 
+
+
+PERSON Francisca 
+PERSON Leta 
+GPE Winona 
+PERSON Juana 
+
+PERSON Petra 
+PERSON Dessie 
+
+PERSON Charlie 
+PERSON Tillie 
+PERSON Glenda 
+PERSON Marylou 
+PERSON Germaine 
+PERSON Monica 
+PERSON Isabell 
+PERSON Beryl 
+
+PERSON Valerie 
+PERSON Wilhelmina 
+PERSON Zella 
+PERSON Rae 
+ORG Noreen 
+PERSON Rosalee 
+PERSON Rowena 
+PERSON Claudine 
+PERSON Millicent 
+ORG Verla 
+ORG Enid 
+PERSON Manuela 
+ORG Leora 
+PERSON Lucia 
+PERSON Madeleine 
+PERSON Gail 
+
+NORP Maurine 
+PERSON Donald 
+
+PERSON Rosalyn 
+
+PERSON Sonia 
+PERSON Sophia 
+
+ORG Elise 
+
+PERSON Janette 
+PERSON Delma 
+GPE Roma 
+PERSON Deborah 
+
+PERSON Velda 
+
+NORP Rubye 
+GPE Socorro 
+PERSON Joseph 
+PERSON Lucinda 
+PERSON Minerva 
+PERSON Vida 
+ORG Edwina 
+PERSON Louisa 
+PERSON Rosalind 
+ORG Elda 
+PERSON Billy 
+
+PERSON Ofelia 
+GPE Carolina 
+ORG Charline 
+PERSON Elisabeth 
+PERSON Margret 
+PERSON Gretchen 
+
+PERSON Madonna 
+ORG Reta 
+PERSON Billye 
+
+ORG Alfreda 
+PERSON Hellen 
+PERSON Phoebe 
+
+ORG Vernell 
+PERSON Belva 
+PERSON Camille 
+
+PERSON Twila 
+PERSON Harriette 
+PERSON Alvina 
+PERSON Arleen 
+PERSON Theda 
+
+WORK_OF_ART Veda 
+
+PERSON Theodora 
+PERSON Carlene 
+PERSON Freida 
+PERSON Caryl 
+PERSON Fanny 
+
+PERSON Georgette 
+PERSON Nita 
+ORG Rhea 
+
+
+PERSON Ava 
+PERSON Valeria 
+PERSON Hallie 
+
+PERSON Justine 
+
+PERSON Edward 
+ORG Myrtis 
+ORG Tessie 
+
+PERSON Yvette 
+GPE Augusta 
+PERSON Frank 
+
+PERSON Tina 
+
+PERSON Katheryn 
+PERSON Marlene 
+PERSON Elsa 
+
+GPE Marianna 
+PERSON Ursula 
+PERSON Adell 
+PERSON Alva 
+
+PERSON Camilla 
+PERSON Margarette 
+PERSON Marilynn 
+
+PERSON Carla 
+
+
+
+PERSON Adrienne 
+
+PERSON Kate 
+ORG Agatha 
+
+ORG Lona 
+
+PERSON Thomas 
+
+
+PERSON Hortense 
+PERSON Angelita 
+PERSON Idella 
+
+PERSON Terry 
+
+PERSON Zola 
+PERSON Elisa 
+PERSON Ladonna 
+PERSON Lavern 
+PERSON Lavon 
+PERSON Roselyn 
+ORG Celeste 
+ORG Clementine 
+PERSON Leonora 
+
+PERSON Oleta 
+PERSON Dorcas 
+PERSON Ray 
+
+PERSON Doretha 
+
+
+
+PERSON Charmaine 
+PERSON Berta 
+
+PERSON Florene 
+PERSON Georgianna 
+PERSON Lynn 
+
+PERSON Dovie 
+
+PERSON Magdalene 
+
+PERSON Catharine 
+PERSON Georgiana 
+PERSON Pamela 
+ORG Carmel 
+
+PERSON Ouida 
+PERSON Dorla 
+PERSON Gayle 
+PERSON Juliette 
+GPE Mozelle 
+
+PERSON Pattie 
+PERSON Andrea 
+PERSON Denise 
+PERSON Emilia 
+PERSON Filomena 
+PERSON Gerry 
+PERSON Adela 
+PERSON Cecil 
+
+ORG Elna 
+PERSON Mina 
+GPE Myrtice 
+PERSON Raquel 
+ORG Nova 
+PERSON Donnie 
+PERSON Felicia 
+ORG Odell 
+PERSON Leslie 
+PERSON Artie 
+
+PERSON Lina 
+
+GPE Easter 
+PERSON Henry 
+PERSON Maybelle 
+PERSON Sammie 
+PERSON Walter 
+
+
+ORG Meredith 
+ORG Alda 
+PERSON Harold 
+ORG Lavina 
+PERSON Stephanie 
+PERSON Cassie 
+PERSON Cathryn 
+PERSON Jeane 
+
+GPE Belle 
+
+PERSON Evangelina 
+
+
+ORG Antonette 
+
+ORG Bulah 
+PERSON Cordelia 
+
+GPE Ethelyn 
+ORG Herminia 
+
+PERSON Darline 
+
+PERSON Maryjane 
+PERSON Daphne 
+
+PERSON Nathalie 
+
+PERSON Arthur 
+ORG Jacquelin 
+PERSON Kathrine 
+PERSON Leonor 
+
+PERSON Mickey 
+ORG Norene 
+GPE Albina 
+
+PERSON Kenneth 
+PERSON Rubie 
+PERSON Beatriz 
+PERSON Benita 
+PERSON Christene 
+PERSON Lonnie 
+ORG Nila 
+PERSON Patti 
+ORG Catalina 
+PERSON Dana 
+
+
+
+
+
+PERSON Jayne 
+PERSON Maxie 
+GPE Verona 
+PERSON Amalia 
+PERSON Larue 
+PERSON Ana 
+PERSON Audry 
+PERSON Bella 
+
+ORG Cleta 
+GPE Eloisa 
+
+PERSON Leone 
+PERSON Susanne 
+
+PERSON Emilie 
+PERSON Rosanna 
+
+PERSON Bridget 
+PERSON Jack 
+
+PERSON Delois 
+NORP Doloris 
+ORG Eldora 
+
+PERSON Jocelyn 
+GPE Leatha 
+PERSON Lyla 
+PERSON Rosina 
+
+GPE Elmira 
+
+
+PERSON Karen 
+
+
+
+ORG Vita 
+PERSON Vonda 
+PERSON Abbie 
+PERSON Almeda 
+
+PERSON Jeanie 
+PERSON Lulu 
+PERSON Marlyn 
+
+PERSON Corene 
+
+PERSON Libby 
+GPE Luetta 
+PERSON Susanna 
+
+
+GPE Magnolia 
+PERSON Raymond 
+
+PERSON Chloe 
+PERSON Jeannie 
+PERSON Jonnie 
+PERSON Lavada 
+PERSON Luz 
+
+ORG Tomasa 
+
+PERSON Dianne 
+
+PERSON Margy 
+PERSON Sherry 
+PERSON Toni 
+
+ORG Ardella 
+PERSON Cathrine 
+ORG Claudie 
+PERSON David 
+PERSON Georgina 
+ORG Martina 
+
+PERSON Carroll 
+ORG Evelyne 
+PERSON Lucretia 
+ORG Tressie 
+GPE Velia 
+PERSON Zora 
+GPE Bernardine 
+
+
+PERSON Lida 
+PERSON Margot 
+PERSON Theo 
+
+ORG Annamae 
+
+
+PERSON Esta 
+
+
+
+GPE Bethel 
+ORG Carmelita 
+PERSON Dale 
+PERSON Natalia 
+PERSON Roseann 
+PERSON Cherie 
+PERSON Eugene 
+
+
+PERSON Marcelle 
+ORG Mozell 
+PERSON Palma 
+PERSON Bernita 
+GPE Eulalia 
+PERSON Ferne 
+
+PERSON Naoma 
+
+PERSON Roy 
+
+
+PERSON Ardell 
+
+
+
+
+
+PERSON Juliet 
+
+
+PERSON Clyde 
+PERSON Colette 
+PERSON Garnett 
+PERSON Hazle 
+
+PERSON Nanette 
+ORG Rozella 
+PERSON Vina 
+
+PERSON Audra 
+ORG Carrol 
+
+PERSON Cruz 
+
+
+
+PERSON Albert 
+ORG Arden 
+
+
+
+
+ORG Adelina 
+
+
+PERSON Evalyn 
+
+PERSON Rosamond 
+PERSON Sondra 
+PERSON Augustine 
+
+PERSON Elayne 
+PERSON Lilia 
+PERSON Lyda 
+PERSON Marge 
+PERSON Twyla 
+ORG Vincenza 
+PERSON Aida 
+PERSON Brenda 
+GPE Clarabelle 
+PERSON Harry 
+PERSON Lavinia 
+PERSON Lea 
+PERSON Margene 
+PERSON Maryellen 
+GPE Sofia 
+GPE Trinidad 
+ORG Adelle 
+PERSON Beverlee 
+
+PERSON Lennie 
+PERSON Lita 
+
+PERSON Maryanne 
+PERSON Wynona 
+ORG Almeta 
+
+
+WORK_OF_ART Eda 
+GPE Florida 
+PERSON Ingrid 
+PERSON Jolene 
+
+PERSON Ralph 
+PERSON Vivien 
+ORG Elinore 
+
+PERSON Jovita 
+PERSON Juliana 
+PERSON Katy 
+PERSON Lidia 
+
+PERSON Rachael 
+PERSON Cathleen 
+PERSON Clarissa 
+
+PERSON Elenora 
+GPE Joycelyn 
+GPE Lawanda 
+PERSON Marva 
+
+PERSON Rosalia 
+ORG Carma 
+
+PERSON Golda 
+ORG Inell 
+
+
+PERSON Norman 
+PERSON Ossie 
+
+
+PERSON Sidney 
+ORG Sydell 
+ORG Velva 
+NORP Earlean 
+
+PERSON Elenor 
+PERSON Ellie 
+PERSON Fred 
+PERSON Hildegarde 
+PERSON Jill 
+PERSON Mammie 
+GPE Oralia 
+PERSON Rosia 
+GPE Santa 
+PERSON Soledad 
+ORG Vivienne 
+ORG Delilah 
+PERSON Imelda 
+
+ORG Malinda 
+
+
+GPE Nannette 
+PERSON Sonya 
+ORG Zenobia 
+PERSON Barbra 
+
+GPE Domenica 
+PERSON Louis 
+
+PERSON Merilyn 
+ORG Octavia 
+ORG Versie 
+
+ORG Wanita 
+ORG Alline 
+ORG Arletta 
+
+PERSON Eartha 
+PERSON Elmer 
+
+ORG Joye 
+ORG Macie 
+ORG Mardell 
+
+PERSON Paulina 
+
+
+PERSON Queenie 
+
+GPE Savannah 
+PERSON Sudie 
+PERSON Vernie 
+PERSON Zita 
+PERSON Carl 
+PERSON Carleen 
+PERSON Coleen 
+
+
+PERSON Laurie 
+PERSON Rosanne 
+PERSON Vallie 
+ORG Wava 
+
+PERSON Anthony 
+
+
+
+
+
+PERSON Gerald 
+PERSON Mariam 
+PERSON Marilee 
+
+PERSON Berna 
+PERSON Elberta 
+
+PERSON Herbert 
+GPE Hortensia 
+ORG Jesusa 
+
+PERSON Matilde 
+PERSON Maurice 
+ORG Nella 
+PERSON Phillis 
+
+ORG Verdell 
+PERSON Antionette 
+PERSON Beaulah 
+
+PERSON Felicitas 
+
+PERSON Hilma 
+PERSON Jamie 
+PERSON Jeanetta 
+PERSON Mandy 
+PERSON Mathilda 
+
+PERSON Robin 
+ORG Trula 
+
+
+GPE Enola 
+
+ORG Gaynell 
+PERSON Grayce 
+PERSON Howard 
+
+PERSON Johnny 
+PERSON Letitia 
+PERSON Lynette 
+
+
+
+GPE Rochelle 
+ORG Selena 
+PERSON Adelia 
+NORP Allean 
+ORG Emmie 
+ORG Laurette 
+PERSON Lera 
+
+PERSON Mariann 
+
+ORG Patrica 
+PERSON Romayne 
+PERSON Rosita 
+ORG Vernita 
+GPE Belia 
+PERSON Cheryl 
+
+PERSON Floretta 
+
+PERSON Hildegard 
+ORG Kathryne 
+ORG Lorenza 
+PERSON Luisa 
+
+PERSON Mariana 
+PERSON Marvin 
+PERSON Sabina 
+ORG Arla 
+
+PERSON Clarence 
+PERSON Clifford 
+PERSON Dee 
+
+
+GPE Glendora 
+
+PERSON Leda 
+GPE Marjean 
+GPE Marybelle 
+
+PERSON Penelope 
+PERSON Tommy 
+PERSON Verlie 
+
+ORG Zena 
+ORG Ardelle 
+
+
+ORG Emmer 
+PERSON Georgetta 
+PERSON Jesse 
+PERSON Jessica 
+PERSON Leanna 
+PERSON Marylin 
+PERSON Marylyn 
+PERSON Melissa 
+
+
+
+PERSON Rene 
+PERSON Retta 
+
+WORK_OF_ART Theola 
+PERSON Trudy 
+PERSON Vella 
+
+ORG Audie 
+
+ORG Charlsie 
+PERSON Elia 
+
+NORP Glennis 
+
+
+PERSON Janelle 
+PERSON Lilla 
+GPE Loma 
+NORP Marcelline 
+
+PERSON Valda 
+
+PERSON Vinnie 
+
+ORG Bettylou 
+
+ORG Creola 
+PERSON Cristina 
+PERSON Dina 
+ORG Elvia 
+
+
+PERSON Flo 
+PERSON Leonard 
+
+GPE Margarite 
+PERSON Marita 
+PERSON Melvin 
+PERSON Micaela 
+PERSON Mimi 
+PERSON Rilla 
+GPE Roselle 
+PERSON Stanley 
+
+PERSON Ailene 
+
+
+PERSON Drucilla 
+PERSON Emelia 
+PERSON Ernest 
+ORG Gennie 
+PERSON Glenn 
+PERSON Jeanene 
+PERSON Kathlyn 
+PERSON Loree 
+PERSON Loris 
+PERSON Lynda 
+ORG Mafalda 
+
+PERSON Rosaria 
+GPE Shirlie 
+
+PERSON Ardeth 
+ORG Athena 
+
+
+PERSON Laurine 
+
+PERSON Marsha 
+
+PERSON Phyliss 
+
+
+ORG Alfred 
+PERSON Annamarie 
+
+
+PERSON Corina 
+
+
+
+
+PERSON Jerrie 
+PERSON Lucie 
+PERSON Margo 
+
+PERSON Mitzi 
+PERSON Rafaela 
+PERSON Sonja 
+
+
+
+PERSON Willetta 
+GPE Afton 
+GPE Bernetta 
+
+
+
+
+PERSON Jacklyn 
+
+PERSON Letty 
+PERSON Lorelei 
+PERSON Maralyn 
+GPE Nadean 
+PERSON Simona 
+ORG Albertine 
+GPE Belen 
+
+
+
+
+
+ORG Eulah 
+PERSON Hermine 
+
+PERSON Jacquline 
+
+
+PERSON Kathy 
+ORG Laurene 
+
+ORG Marylee 
+ORG Maybell 
+
+ORG Olevia 
+PERSON Portia 
+PERSON Refugia 
+PERSON Roger 
+
+PERSON Toby 
+PERSON Yoshiko 
+PERSON Aleta 
+
+PERSON Augustina 
+PERSON Bernard 
+ORG Bonna 
+PERSON Carlotta 
+PERSON Carolee 
+PERSON Clair 
+PERSON Curtis 
+
+ORG Eudora 
+PERSON Evelina 
+PERSON Goldia 
+PERSON Gretta 
+
+PERSON Kathern 
+PERSON Luna 
+GPE Magdalen 
+
+
+GPE Olean 
+PERSON Rebeca 
+ORG Yolande 
+PERSON Abigail 
+PERSON Alba 
+NORP Ardys 
+
+
+PERSON Bess 
+
+PERSON Collette 
+
+
+
+
+ORG Ellamae 
+
+ORG Felice 
+
+PERSON Lavelle 
+ORG Marillyn 
+NORP Maudine 
+NORP Melda 
+PERSON Michael 
+
+
+
+
+PERSON Ruthann 
+
+GPE Sydney 
+
+
+
+PERSON Vernon 
+
+GPE America 
+
+PERSON Aretha 
+ORG Arlena 
+ORG Carlota 
+PERSON Celine 
+
+
+ORG Dorthea 
+
+
+PERSON Floyd 
+GPE Gertha 
+GPE Gladis 
+PERSON Graciela 
+
+PERSON Jesus 
+ORG Jonell 
+PERSON Julianne 
+ORG Lavaughn 
+PERSON Lenna 
+PERSON Ludie 
+PERSON Madelon 
+PERSON Ninfa 
+PERSON Noel 
+
+
+
+
+GPE Vonnie 
+GPE Willadean 
+ORG Adaline 
+PERSON Alida 
+PERSON Arlys 
+
+
+
+
+GPE Floria 
+PERSON Gordon 
+
+PERSON Larae 
+
+PERSON Lexie 
+PERSON Lilie 
+ORG Louetta 
+GPE Maida 
+
+ORG Marta 
+ORG Olympia 
+PERSON Samuel 
+
+
+PERSON Zetta 
+PERSON Alvin 
+ORG Cara 
+
+PERSON Corrinne 
+GPE Dallas 
+
+PERSON Erika 
+PERSON Eugenie 
+PERSON Evon 
+
+
+
+PERSON Lawrence 
+PERSON Lester 
+
+GPE Mardelle 
+
+
+PERSON Meryl 
+PERSON Nadene 
+ORG Orene 
+PERSON Sam 
+PERSON Theodore 
+
+
+PERSON Warren 
+ORG Amie 
+
+
+NORP Arletha 
+PERSON Azalee 
+ORG Classie 
+ORG Elwanda 
+PERSON Florrie 
+PERSON Gabrielle 
+
+PERSON Gaynelle 
+PERSON Glen 
+PERSON Glennie 
+PERSON Isobel 
+PERSON Jesusita 
+GPE Johnsie 
+PERSON Leroy 
+ORG Malvina 
+ORG Mellie 
+
+PERSON Monnie 
+
+PERSON Simone 
+
+ORG Tena 
+PERSON Violette 
+GPE Virgina 
+PERSON Wayne 
+PERSON Allen 
+
+
+PERSON Aubrey 
+PERSON Catarina 
+
+ORG Claris 
+PERSON Clementina 
+
+PERSON Edyth 
+
+ORG Evaline 
+
+
+ORG Haroldine 
+PERSON Hedwig 
+
+ORG Jacqulyn 
+PERSON Janine 
+
+
+PERSON Leoma 
+PERSON Mallie 
+ORG Marcine 
+
+PERSON Masako 
+ORG Naida 
+WORK_OF_ART Nicolasa 
+ORG Nyla 
+PERSON Refugio 
+PERSON Roseline 
+ORG Serena 
+ORG Tommye 
+ORG Trudie 
+GPE Venice 
+
+
+
+
+
+PERSON Archie 
+NORP Argie 
+PERSON Arleta 
+ORG Arvella 
+PERSON Babette 
+PERSON Berenice 
+WORK_OF_ART Bettyjane 
+
+
+PERSON Cleda 
+PERSON Donnabelle 
+PERSON Duane 
+PERSON Edwin 
+PERSON Estefana 
+ORG Fredia 
+PERSON Genevia 
+
+PERSON Kathyrn 
+
+PERSON Loreta 
+PERSON Lorretta 
+
+PERSON Margrette 
+
+
+
+
+GPE Oneida 
+
+PERSON Paulette 
+
+
+PERSON Ronald 
+PERSON Russell 
+ORG Seena 
+
+
+
+
+
+GPE Alexandria 
+GPE Arizona 
+GPE Blanca 
+PERSON Claribel 
+PERSON Claude 
+PERSON Dagmar 
+
+PERSON Eleonore 
+
+ORG Eura 
+
+PERSON Fonda 
+
+ORG Gena 
+PERSON Hermelinda 
+PERSON Ingeborg 
+PERSON Izetta 
+PERSON Junie 
+
+PERSON Marcie 
+PERSON Natividad 
+
+ORG Nena 
+PERSON Odette 
+PERSON Reda 
+ORG Ressie 
+PERSON Rosario 
+PERSON Valentina 
+PERSON Willow 
+
+ORG Alvena 
+
+
+
+ORG Burnell 
+PERSON Carlyn 
+PERSON Daris 
+PERSON Deane 
+PERSON Delila 
+
+
+
+
+
+
+
+GPE Florance 
+
+
+
+ORG Jacquelyne 
+PERSON Jeannene 
+
+
+PERSON Loreen 
+
+PERSON Madalyn 
+PERSON Martin 
+ORG Meda 
+PERSON Merlyn 
+
+GPE Nevada 
+ORG Ozell 
+PERSON Peter 
+PERSON Rossie 
+PERSON Rufina 
+PERSON Susana 
+PERSON Teresita 
+
+PERSON Virgil 
+ORG Wynell 
+
+PERSON Alexandra 
+PERSON Arlie 
+
+
+
+ORG Carline 
+
+
+ORG Emiko 
+
+
+
+
+PERSON Haruko 
+
+
+ORG Ivalee 
+PERSON Jennette 
+ORG Jetta 
+PERSON Jimmy 
+GPE Joane 
+ORG Lahoma 
+
+GPE Lillia 
+ORG Lossie 
+
+PERSON Lynne 
+
+PERSON Michiko 
+ORG Mitsuko 
+PERSON Oneita 
+
+
+
+
+
+
+PERSON Sharlene 
+
+PERSON Thora 
+PERSON Tony 
+
+
+ORG Adline 
+PERSON Agustina 
+PERSON Aimee 
+ORG Amada 
+PERSON Annmarie 
+
+PERSON Arie 
+ORG Avanell 
+ORG Betsey 
+
+PERSON Claudette 
+ORG Cleola 
+
+ORG Daphine 
+ORG Dell 
+
+
+PERSON Evonne 
+ORG Fayetta 
+ORG Garnette 
+PERSON Hedy 
+PERSON Helga 
+
+PERSON Henriette 
+
+
+PERSON Johanne 
+PERSON Justina 
+ORG Kittie 
+PERSON Larraine 
+ORG Lavenia 
+
+
+PERSON Leonia 
+GPE Lodema 
+PERSON Lorayne 
+PERSON Louie 
+PERSON Macel 
+PERSON Maisie 
+
+PERSON Marcela 
+PERSON Marcell 
+PERSON Marcy 
+WORK_OF_ART Marylouise 
+ORG Maymie 
+
+GPE Missouri 
+
+PERSON Nancie 
+GPE Nanie 
+
+
+PERSON Onalee 
+ORG Paralee 
+GPE Rayma 
+ORG Rosemond 
+PERSON Tula 
+
+ORG Yaeko 
+PERSON Aiko 
+PERSON Albertina 
+
+ORG Almira 
+PERSON Annalee 
+ORG Arbutus 
+
+ORG Arliss 
+
+
+
+
+
+
+
+
+
+PERSON Dannie 
+PERSON Douglas 
+
+
+GPE Erminia 
+PERSON Ernie 
+PERSON Etha 
+
+ORG Flavia 
+PERSON Gina 
+PERSON Gladyce 
+PERSON Gwyneth 
+ORG Hassie 
+PERSON Hilaria 
+
+NORP Jeannetta 
+GPE Joetta 
+PERSON Junita 
+ORG Lavena 
+ORG Lelah 
+PERSON Lisa 
+
+
+PERSON Lovella 
+PERSON Magalene 
+
+
+
+
+GPE Pearle 
+ORG Reita 
+
+PERSON Rona 
+
+PERSON Silvia 
+PERSON Terese 
+PERSON Thalia 
+ORG Thea 
+ORG Tilda 
+
+
+
+ORG Vennie 
+
+PERSON Vicki 
+PERSON Vila 
+ORG Vira 
+PERSON Willette 
+
+PERSON Arnold 
+
+PERSON Bettina 
+ORG Billee 
+ORG Celina 
+ORG Cherrie 
+ORG Clarisse 
+
+PERSON Dulcie 
+ORG Elba 
+
+
+
+
+PERSON Flonnie 
+
+PERSON Geraline 
+
+GPE India 
+ORG Jacquelene 
+PERSON Jim 
+
+PERSON Juan 
+PERSON Kimiko 
+
+ORG Launa 
+PERSON Leon 
+
+PERSON Lilah 
+
+GPE Lorette 
+GPE Lourdes 
+
+
+PERSON Maebelle 
+PERSON Majorie 
+
+
+
+
+PERSON Nobuko 
+ORG Oneda 
+ORG Osie 
+
+PERSON Rea 
+PERSON Rina 
+PERSON Ronnie 
+GPE Rosabelle 
+ORG Royce 
+PERSON Rubbie 
+PERSON Ruther 
+PERSON Shirlene 
+
+PERSON Willard 
+PERSON Willis 
+
+PERSON Wyona 
+PERSON Zadie 
+
+PERSON Zoila 
+
+
+PERSON Aldona 
+PERSON Alejandra 
+
+
+
+
+
+
+ORG Avalon 
+GPE Berdie 
+ORG Berdine 
+ORG Bina 
+PERSON Carolyne 
+
+PERSON Celestina 
+ORG Charlyne 
+
+PERSON Eather 
+PERSON Elene 
+GPE Ellyn 
+
+GPE Flordia 
+WORK_OF_ART Florentina 
+PERSON Frederick 
+
+
+PERSON Herma 
+
+ORG Jenell 
+PERSON Jerlene 
+ORG Joline 
+
+WORK_OF_ART Kiyoko 
+
+
+
+
+ORG Leanora 
+
+
+GPE Lucienne 
+ORG Lurene 
+PERSON Maebell 
+
+PERSON Mari 
+PERSON Mariah 
+
+
+
+PERSON Noella 
+
+PERSON Odie 
+
+PERSON Sachiko 
+
+PERSON Shannon 
+
+PERSON Troy 
+PERSON Valera 
+PERSON Verma 
+PERSON Vicky 
+
+GPE Wilmer 
+ORG Aldine 
+NORP Annelle 
+GPE Bernie 
+
+
+
+PERSON Cleona 
+PERSON Conchita 
+ORG Daisey 
+PERSON Darla 
+
+
+ORG Donnamae 
+
+
+ORG Ermelinda 
+PERSON Fumiko 
+
+PERSON Giovanna 
+PERSON Hanna 
+PERSON Helyn 
+
+
+ORG Janey 
+PERSON Jose 
+PERSON Jule 
+PERSON Julian 
+PERSON Katheleen 
+PERSON Lana 
+
+ORG Leocadia 
+PERSON Libbie 
+
+
+
+NORP Magdaline 
+WORK_OF_ART Malissa 
+
+ORG Marilu 
+
+
+ORG Maryanna 
+PERSON Melinda 
+PERSON Minna 
+
+PERSON Noemi 
+
+
+
+
+PERSON Pollie 
+PERSON Rella 
+PERSON Sammy 
+PERSON Selina 
+
+GPE Tressa 
+
+PERSON Vashti 
+GPE Velna 
+
+PERSON Zina 
+PERSON Alex 
+
+ORG Artis 
+PERSON Astrid 
+
+
+PERSON Calvin 
+PERSON Charley 
+GPE Chester 
+
+PERSON Coralee 
+
+PERSON Edmonia 
+PERSON Elfriede 
+GPE Erie 
+
+ORG Ezell 
+
+
+
+
+
+
+PERSON Hollis 
+
+PERSON Irena 
+ORG Isadora 
+PERSON Jacqualine 
+PERSON Juliann 
+PERSON Lannie 
+PERSON Lavaun 
+ORG Manda 
+
+WORK_OF_ART Margretta 
+ORG Margueritte 
+
+
+PERSON Marty 
+
+GPE Melrose 
+ORG Meriam 
+PERSON Milly 
+PERSON Murlene 
+PERSON Murline 
+PERSON Neda 
+
+PERSON Norah 
+ORG Omie 
+
+
+
+NORP Pearlean 
+PERSON Percy 
+
+WORK_OF_ART Venus 
+
+
+PERSON Yoshie 
+
+ORG Alyne 
+PERSON Ammie 
+
+ORG Bell 
+PERSON Benjamin 
+ORG Bernell 
+
+ORG Candace 
+
+PERSON Chrystal 
+ORG Clarise 
+
+
+PERSON Deana 
+PERSON Debra 
+WORK_OF_ART Delaine 
+
+PERSON Dewey 
+
+
+ORG Elidia 
+ORG Elta 
+
+PERSON Florie 
+PERSON Floris 
+PERSON Forrest 
+GPE France 
+
+ORG Gearldean 
+ORG Genelle 
+ORG Georganna 
+PERSON Gerda 
+PERSON Glora 
+PERSON Gracia 
+ORG Hellon 
+ORG Ilo 
+
+
+PERSON Jennifer 
+EVENT Katrina 
+
+ORG Lanie 
+
+ORG Lara 
+GPE Lavergne 
+
+
+PERSON Linnea 
+GPE Lorain 
+ORG Lotus 
+
+PERSON Lovenia 
+PERSON Luanne 
+
+PERSON Luther 
+ORG Macy 
+
+
+PERSON Maryetta 
+
+ORG Maxcine 
+PERSON Melanie 
+PERSON Milton 
+ORG Mozel 
+
+
+PERSON Nilda 
+ORG Nonie 
+
+ORG Otis 
+
+PERSON Perry 
+PERSON Philip 
+
+PERSON Rosalina 
+
+PERSON Sadako 
+PERSON Soila 
+PERSON Sula 
+
+GPE Teruko 
+
+
+ORG Vernette 
+
+
+
+
+
+PERSON Anastacia 
+PERSON Ardelia 
+PERSON Arlette 
+PERSON Audre 
+
+
+
+ORG Carman 
+
+PERSON Chris 
+
+
+PERSON Clarita 
+ORG Claudene 
+
+GPE Cordie 
+
+
+PERSON Ellis 
+
+ORG Esmeralda 
+
+
+
+PERSON Fidela 
+PERSON Florette 
+PERSON Glada 
+PERSON Hetty 
+
+PERSON Ilse 
+
+NORP Jestine 
+
+PERSON Johnetta 
+PERSON Jorene 
+PERSON Julianna 
+
+ORG Laveda 
+
+PERSON Lilian 
+
+
+PERSON Louann 
+
+
+PERSON Loy 
+PERSON Lucila 
+
+GPE Mada 
+
+
+GPE Marcille 
+
+
+PERSON Merline 
+ORG Merrill 
+
+
+
+PERSON Nieves 
+PERSON Norris 
+
+
+
+PERSON Ramonia 
+
+
+PERSON Sabra 
+PERSON Salome 
+PERSON Sharron 
+PERSON Shirly 
+ORG Sigrid 
+GPE Theressa 
+PERSON Tom 
+ORG Tomie 
+
+PERSON Valentine 
+PERSON Vanda 
+
+PERSON Vincent 
+
+ORG Wenonah 
+PERSON Willo 
+PERSON Wilsie 
+PERSON Wynema 
+
+PERSON Ysabel 
+ORG Yukie 
+PERSON Yuriko 
+
+
+ORG Alfredia 
+
+PERSON Annamay 
+
+GPE Armandina 
+ORG Arnell 
+PERSON Arrie 
+PERSON Audria 
+
+PERSON Benny 
+PERSON Bernadene 
+
+
+ORG Birda 
+PERSON Bobbe 
+ORG Bobette 
+GPE Buena 
+
+ORG Carnell 
+PERSON Clarene 
+PERSON Cleva 
+
+
+PERSON Dalia 
+ORG Davie 
+PERSON Dawna 
+ORG Deloise 
+PERSON Demaris 
+ORG Dessa 
+
+
+PERSON Enes 
+
+
+NORP Eudelia 
+PERSON Eufemia 
+
+
+PERSON Fleurette 
+PERSON Florabelle 
+GPE Fredda 
+
+
+
+PERSON Hermione 
+PERSON Hollie 
+
+PERSON Hubert 
+ORG Ileana 
+
+PERSON Jacque 
+PERSON Jannette 
+PERSON Jeri 
+PERSON Jodie 
+
+
+PERSON Karin 
+
+PERSON Kaye 
+ORG Laila 
+PERSON Lavonda 
+
+PERSON Liddie 
+PERSON Lillis 
+ORG Loleta 
+
+ORG Lovell 
+ORG Loyola 
+PERSON Lyn 
+NORP Madolyn 
+PERSON Manuel 
+
+PERSON Mariel 
+
+PERSON Maryjo 
+
+
+PERSON Michelle 
+
+
+PERSON Myron 
+GPE Nancye 
+
+
+
+PERSON Oliva 
+
+
+ORG Paulita 
+ORG Pecola 
+
+
+PERSON Rema 
+NORP Rosalea 
+
+
+PERSON Roxana 
+PERSON Rozelle 
+
+
+PERSON Sylvester 
+ORG Texie 
+PERSON Vannie 
+PERSON Verena 
+PERSON Vinita 
+
+ORG Vonna 
+ORG Welma 
+
+PERSON Adrian 
+ORG Aggie 
+
+
+ORG Alison 
+
+PERSON Aloma 
+PERSON Alys 
+
+ORG Annell 
+PERSON Anner 
+ORG Annice 
+ORG Antoinetta 
+ORG Arabella 
+
+PERSON Ariel 
+ORG Arlee 
+PERSON Arta 
+ORG Avery 
+
+PERSON Ben 
+
+ORG Buna 
+
+PERSON Cathy 
+GPE Charlean 
+PERSON Charolette 
+PERSON Cinderella 
+
+
+PERSON Cletus 
+NORP Corean 
+PERSON Cozette 
+
+
+
+
+
+PERSON Dillie 
+PERSON Dola 
+GPE Dominica 
+
+ORG Dorathea 
+
+ORG Dossie 
+
+
+
+
+PERSON Emeline 
+ORG Eris 
+
+ORG Euline 
+PERSON Euphemia 
+
+GPE Evelynne 
+PERSON Florentine 
+PERSON Garnetta 
+ORG Genevive 
+
+
+
+PERSON Guillermina 
+PERSON Herman 
+GPE Hisako 
+
+ORG Idelle 
+
+ORG Ivadell 
+
+
+
+PERSON Jerome 
+PERSON Jeweline 
+
+
+PERSON Juanda 
+
+
+ORG Latrelle 
+
+
+GPE Lindy 
+PERSON Luann 
+ORG Lunette 
+PERSON Lyle 
+PERSON Lynnette 
+PERSON Magaline 
+WORK_OF_ART Marijane 
+PERSON Marla 
+PERSON Marolyn 
+
+ORG Mattye 
+PERSON Melita 
+
+PERSON Mila 
+PERSON Morris 
+
+PERSON Nadia 
+ORG Netta 
+
+PERSON Patrice 
+
+PERSON Racheal 
+
+
+
+
+
+
+ORG Shizuko 
+PERSON Steffie 
+
+
+
+PERSON Tanya 
+PERSON Theresia 
+ORG Valetta 
+PERSON Valjean 
+
+PERSON Verba 
+PERSON Vergia 
+WORK_OF_ART Verl 
+PERSON Verle 
+
+ORG Vessie 
+
+PERSON Wandalee 
+
+
+PERSON Wilberta 
+
+
+PERSON Willine 
+
+ORG Allison 
+
+PERSON Anabel 
+PERSON Angel 
+
+GPE Antonio 
+
+
+GPE Avanelle 
+PERSON Ayako 
+
+ORG Azilee 
+
+ORG Berdena 
+
+
+GPE Bethany 
+
+
+PERSON Carita 
+PERSON Carley 
+PERSON Carlos 
+ORG Cary 
+PERSON Cindy 
+
+
+
+PERSON Darrell 
+PERSON Dellie 
+
+
+PERSON Despina 
+ORG Dian 
+PERSON Dianna 
+
+
+
+NORP Earla 
+
+GPE Elgie 
+ORG Ellar 
+PERSON Eller 
+PERSON Elner 
+PERSON Elsbeth 
+PERSON Emelie 
+
+
+
+
+PERSON Francie 
+
+PERSON Frona 
+
+PERSON Gaye 
+PERSON Gemma 
+
+PERSON Genieve 
+PERSON Grady 
+PERSON Harue 
+PERSON Harvey 
+PERSON Hildreth 
+
+PERSON Honora 
+PERSON Jacinta 
+PERSON Jacquie 
+
+PERSON Jere 
+PERSON Johann 
+GPE Josephene 
+PERSON Kim 
+ORG Kimie 
+
+
+
+PERSON Lesley 
+
+
+
+
+PERSON Lu 
+PERSON Luciel 
+
+PERSON Lupita 
+
+
+
+
+
+
+
+
+ORG Maribelle 
+PERSON Mariellen 
+PERSON Martine 
+ORG Marvine 
+
+PERSON Max 
+
+
+ORG Mertis 
+NORP Mitsue 
+PERSON Montez 
+
+PERSON Nealie 
+PERSON Nicholas 
+ORG Nida 
+
+PERSON Norva 
+
+
+
+ORG Patsie 
+
+
+
+
+PERSON Pollyanna 
+PERSON Rebekah 
+
+PERSON Reyes 
+GPE Robertha 
+PERSON Roselene 
+GPE Roselie 
+PERSON Roxy 
+
+GPE Ruthy 
+PERSON Saddie 
+
+PERSON Serafina 
+PERSON Shelley 
+
+ORG Solveig 
+
+
+GPE Tecora 
+
+NORP Thais 
+PERSON Thera 
+
+
+ORG Tresa 
+
+
+
+GPE Verlyn 
+
+
+
+
+PERSON Violetta 
+ORG Viona 
+
+ORG Alena 
+ORG Almedia 
+
+
+DATE April 
+
+NORP Ardean 
+PERSON Audine 
+
+
+
+ORG Blonnie 
+
+PERSON Bruce 
+NORP Carlean 
+WORK_OF_ART Carletta 
+ORG Cathryne 
+PERSON Charlesetta 
+PERSON Charlette 
+
+
+GPE Clovis 
+PERSON Consuela 
+PERSON Danna 
+
+
+PERSON Debbie 
+
+PERSON Dinah 
+
+
+ORG Dorothie 
+
+
+PERSON Eathel 
+ORG Edrie 
+ORG Edwardine 
+ORG Elza 
+
+
+
+ORG Ersie 
+PERSON Fawn 
+
+PERSON Feliciana 
+
+PERSON Floyce 
+EVENT Fransisca 
+GPE Fronie 
+PERSON Georgeann 
+
+
+
+PERSON Gweneth 
+ORG Helaine 
+ORG Hiroko 
+ORG Ileane 
+
+NORP Irean 
+
+
+
+PERSON Janna 
+ORG Jeanelle 
+NORP Johnette 
+
+PERSON Julius 
+PERSON Karlene 
+
+ORG Laurita 
+PERSON Leana 
+
+PERSON Lella 
+PERSON Leticia 
+
+PERSON Lewis 
+
+PERSON Liza 
+ORG Loeta 
+PERSON Lollie 
+ORG Lowell 
+
+PERSON Lucilla 
+
+
+ORG Mackie 
+
+
+
+PERSON Maribel 
+PERSON Maribeth 
+
+PERSON Marquita 
+PERSON Marzell 
+
+
+NORP Merla 
+ORG Merlin 
+
+
+
+
+PERSON Mike 
+ORG Milda 
+ORG Monta 
+
+EVENT Norrine 
+GPE Obera 
+PERSON Oris 
+PERSON Ottis 
+
+ORG Pennie 
+PERSON Persis 
+
+PERSON Rachelle 
+
+
+GPE Ramah 
+
+
+
+NORP Romelia 
+
+
+
+PERSON Rudy 
+PERSON Sallye 
+PERSON Sanjuana 
+GPE Savanah 
+
+PERSON Sherrill 
+PERSON Shiela 
+WORK_OF_ART Signe 
+
+PERSON Sofie 
+
+
+ORG Sueko 
+PERSON Sumie 
+
+
+GPE Theone 
+
+ORG Valma 
+
+
+
+
+PERSON Wonda 
+
+PERSON Abby 
+
+PERSON Adriana 
+PERSON Aileene 
+
+ORG Allegra 
+
+
+PERSON Annemarie 
+
+
+GPE Aspasia 
+ORG Beatris 
+
+PERSON Beryle 
+ORG Beverlie 
+PERSON Bobbette 
+ORG Brooksie 
+PERSON Burnette 
+
+PERSON Charlyn 
+
+ORG Chloris 
+PERSON Christy 
+PERSON Clinton 
+
+
+WORK_OF_ART Colletta 
+ORG Columbia 
+
+ORG Cordia 
+
+PERSON Curley 
+PERSON Deanna 
+PERSON Delphina 
+PERSON Detta 
+
+ORG Doloras 
+ORG Doralee 
+
+PERSON Doryce 
+
+ORG Earlyne 
+PERSON Edgar 
+
+
+
+
+ORG Electa 
+PERSON Ellena 
+PERSON Elodie 
+
+
+PERSON Erica 
+ORG Ermine 
+
+PERSON Fabiola 
+GPE Fayette 
+
+
+ORG Florita 
+
+PERSON Francesca 
+ORG Franklin 
+
+NORP Frederica 
+
+ORG Geraldyne 
+
+
+GPE Gladiola 
+
+
+
+PERSON Glorianne 
+
+
+NORP Henritta 
+
+PERSON Hugh 
+NORP Imojean 
+
+
+
+
+PERSON Jacquetta 
+PERSON Janiece 
+
+
+PERSON Jenetta 
+PERSON Jerri 
+PERSON Jimmye 
+PERSON Joana 
+PERSON Joeann 
+
+PERSON Karol 
+PERSON Keiko 
+GPE Keitha 
+PERSON Kelly 
+
+
+ORG Laverda 
+
+
+PERSON Leilani 
+
+GPE Leoda 
+PERSON Leonila 
+
+PERSON Lethia 
+
+
+ORG Lorrie 
+GPE Louanne 
+PERSON Madelaine 
+ORG Margart 
+
+
+PERSON Marrie 
+
+PERSON Maura 
+
+
+ORG Merriam 
+
+NORP Merrilyn 
+PERSON Michele 
+ORG Mira 
+PERSON Moira 
+GPE Monie 
+PERSON Naomie 
+
+PERSON Nobie 
+PERSON Odile 
+
+
+PERSON Oletta 
+
+
+ORG Opel 
+
+PERSON Patrick 
+
+
+
+
+
+PERSON Rhona 
+PERSON Rhonda 
+PERSON Roland 
+PERSON Rosana 
+PERSON Rosann 
+
+
+
+ORG Rudell 
+ORG Ruthell 
+
+PERSON Sada 
+
+PERSON Sarita 
+PERSON Sedonia 
+
+PERSON Stacy 
+
+
+PERSON Thersa 
+GPE Tinnie 
+
+ORG Unice 
+GPE Valencia 
+
+
+
+PERSON Verne 
+
+
+ORG Willye 
+PERSON Wyoma 
+GPE Xenia 
+PERSON Yukiko 
+
+PERSON Zenaida 
+ORG Adelfa 
+PERSON Agapita 
+PERSON Akiko 
+
+
+PERSON Alexander 
+PERSON Almarie 
+
+PERSON Andree 
+
+PERSON Arley 
+PERSON Arlyce 
+PERSON Arlyn 
+PERSON Arnita 
+WORK_OF_ART Artemis 
+
+
+WORK_OF_ART Averil 
+PERSON Belinda 
+PERSON Bert 
+
+
+PERSON Calla 
+GPE Capitola 
+
+
+ORG Carlie 
+PERSON Carra 
+
+PERSON Cecily 
+
+
+GPE China 
+ORG Chiyoko 
+GPE Christean 
+PERSON Claryce 
+PERSON Clemence 
+GPE Clifton 
+
+
+
+PERSON Courtney 
+GPE Cuba 
+ORG Cyrilla 
+PERSON Dallie 
+
+PERSON Davis 
+
+
+
+
+PERSON Dennis 
+
+
+
+PERSON Dorethy 
+
+ORG Dorismae 
+PERSON Dorrine 
+PERSON Dorsey 
+PERSON Earle 
+
+
+ORG Ela 
+
+
+ORG Elmo 
+
+
+
+
+ORG Etsuko 
+ORG Eulalie 
+
+
+
+
+
+ORG Felisitas 
+PERSON Fernanda 
+PERSON Florella 
+
+
+
+
+
+
+ORG Gioia 
+PERSON Gisela 
+
+PERSON Gloriann 
+PERSON Glynn 
+
+ORG Gwenda 
+
+PERSON Gwyn 
+
+ORG Hiawatha 
+PERSON Hilde 
+PERSON Horace 
+
+
+PERSON Ilona 
+GPE Imogean 
+PERSON Isa 
+
+GPE Jeanice 
+PERSON Jeffie 
+PERSON Jenelle 
+
+
+
+PERSON Juanell 
+PERSON Judie 
+
+GPE Junia 
+PERSON Karla 
+PERSON Karyl 
+PERSON Katherene 
+
+
+
+PERSON Larry 
+ORG Laure 
+
+
+
+
+
+
+
+
+
+
+PERSON Luceal 
+
+
+ORG Maedell 
+GPE Manie 
+
+
+
+PERSON Marilla 
+
+
+PERSON Marshall 
+PERSON Marybeth 
+PERSON Mathilde 
+
+
+
+
+GPE Minta 
+PERSON Monette 
+
+PERSON Myla 
+
+PERSON Narcissa 
+
+ORG Nonnie 
+NORP Normajean 
+
+
+
+
+
+
+
+
+
+ORG Patrina 
+
+NORP Pecolia 
+
+
+PERSON Phillip 
+GPE Philomene 
+PERSON Piedad 
+
+PERSON Roberto 
+PERSON Robie 
+
+
+PERSON Rudolph 
+ORG Runell 
+PERSON Sallyann 
+ORG Saralee 
+
+GPE Senaida 
+PERSON Shari 
+ORG Shelby 
+
+PERSON Ted 
+GPE Theona 
+
+
+ORG Tishie 
+ORG Tosca 
+GPE Toyoko 
+PERSON Travis 
+ORG Udell 
+
+
+PERSON Verdelle 
+PERSON Vern 
+NORP Vernese 
+GPE Vienna 
+
+PERSON Violeta 
+
+PERSON Wendell 
+
+PERSON Wesley 
+PERSON Wilbert 
+PERSON Zane 
+PERSON Zilla 
+PERSON Adel 
+GPE Adelyn 
+ORG Agusta 
+
+
+ORG Allyne 
+
+PERSON Annabella 
+
+
+
+
+GPE Argentina 
+ORG Argyle 
+
+
+PERSON Asako 
+PERSON Audery 
+GPE Audrea 
+
+GPE Australia 
+
+ORG Avonelle 
+
+PERSON Barbee 
+
+ORG Benetta 
+PERSON Benigna 
+PERSON Berline 
+
+PERSON Bernarda 
+
+GPE Bernette 
+
+GPE Burma 
+
+ORG Cammie 
+ORG Carlena 
+PERSON Carlyne 
+PERSON Caroll 
+PERSON Castella 
+WORK_OF_ART Chanie 
+PERSON Charla 
+ORG Charlena 
+ORG Charlotta 
+
+PERSON Christa 
+ORG Christell 
+
+ORG Claudell 
+ORG Climmie 
+PERSON Cloe 
+
+ORG Clydia 
+ORG Coleta 
+PERSON Coretta 
+PERSON Cova 
+
+
+PERSON Daryl 
+PERSON Dawne 
+PERSON Deanne 
+
+PERSON Denice 
+
+
+PERSON Donnalee 
+
+PERSON Dorlis 
+
+
+PERSON Edie 
+PERSON Elanor 
+ORG Electra 
+
+
+
+
+
+ORG Eulogia 
+
+PERSON Everett 
+
+PERSON Farris 
+
+
+ORG Fidelis 
+PERSON Flornce 
+ORG Forestine 
+PERSON Fran 
+
+
+GPE Fredonia 
+PERSON Gayla 
+
+NORP Georgian 
+PERSON Geri 
+
+
+
+
+
+PERSON Gudrun 
+
+
+PERSON Gypsy 
+PERSON Halina 
+PERSON Hatsuko 
+PERSON Heather 
+ORG Idabelle 
+GPE Ionia 
+
+PERSON Jaqueline 
+PERSON Jene 
+
+
+PERSON Joaquina 
+
+
+
+
+
+PERSON Katrine 
+PERSON Keith 
+GPE Ladean 
+
+PERSON Lafern 
+
+GPE Lajune 
+
+
+PERSON Leathia 
+PERSON Leigh 
+ORG Leonilda 
+
+ORG Leveta 
+PERSON Liela 
+PERSON Loren 
+
+
+
+
+
+ORG Lurena 
+
+
+
+ORG Majel 
+
+PERSON Marceil 
+NORP Margean 
+
+ORG Margree 
+PERSON Mariella 
+
+GPE Maryland 
+ORG Marylene 
+
+PERSON Massie 
+
+PERSON Matty 
+
+
+ORG Maydell 
+
+
+GPE Merced 
+
+
+
+
+PERSON Minnette 
+ORG Miyako 
+NORP Modean 
+GPE Modena 
+
+WORK_OF_ART Monte 
+
+PERSON Nathan 
+PERSON Neal 
+
+GPE Nelia 
+PERSON Nickie 
+ORG Nillie 
+
+
+PERSON Obie 
+
+PERSON Odesser 
+
+PERSON Olinda 
+
+
+
+PERSON Orla 
+
+
+PERSON Owen 
+
+PERSON Parlee 
+PERSON Peg 
+PERSON Perlie 
+ORG Pernell 
+PERSON Pheobe 
+PERSON Pricilla 
+GPE Quincy 
+PERSON Ramon 
+NORP Rayetta 
+
+GPE Reginia 
+
+GPE Rolla 
+ORG Rosabell 
+
+PERSON Rosenda 
+GPE Rosene 
+PERSON Roxanne 
+
+
+ORG Sarrah 
+ORG Scottie 
+GPE Sedalia 
+
+PERSON Sheryl 
+PERSON Stefanie 
+PERSON Stephen 
+PERSON Sumiye 
+PERSON Susann 
+
+ORG Sylvania 
+PERSON Talitha 
+EVENT Tecla 
+
+PERSON Tess 
+
+ORG Thena 
+ORG Thursa 
+WORK_OF_ART Tola 
+PERSON Trina 
+PERSON Valarie 
+
+PERSON Vela 
+
+
+
+
+
+
+PERSON Viney 
+
+
+
+
+
+
+PERSON Wilna 
+GPE Wylma 
+PERSON Zara 
+PERSON Adrianne 
+PERSON Alan 
+PERSON Aldene 
+PERSON Aleatha 
+ORG Alethea 
+PERSON Allan 
+ORG Alton 
+PERSON Alvis 
+PERSON Angelo 
+PERSON Annita 
+ORG Arda 
+
+
+PERSON Arietta 
+
+PERSON Aris 
+PERSON Arleene 
+
+
+
+PERSON Aurore 
+ORG Avenell 
+
+
+PERSON Beckie 
+PERSON Benedetta 
+PERSON Berry 
+GPE Bertice 
+PERSON Bettejane 
+
+
+ORG Bonnell 
+PERSON Bridie 
+
+PERSON Burnett 
+
+
+PERSON Carey 
+PERSON Carlita 
+
+PERSON Carmine 
+
+PERSON Carolene 
+
+
+PERSON Cellie 
+ORG Charmian 
+ORG Charmie 
+
+PERSON Chiquita 
+
+PERSON Clarie 
+ORG Clarinda 
+ORG Claudina 
+PERSON Clayton 
+
+ORG Cleofas 
+PERSON Cleon 
+
+
+ORG Corena 
+
+PERSON Darnell 
+
+
+
+
+
+ORG Diamantina 
+
+
+PERSON Dorie 
+
+
+
+
+PERSON Eldon 
+
+
+
+
+
+
+
+
+
+
+GPE Emojean 
+
+
+GPE Ennis 
+ORG Ercell 
+
+
+ORG Estrella 
+
+PERSON Everline 
+
+PERSON Fayne 
+
+PERSON Fontella 
+
+GPE Francisco 
+ORG Fredricka 
+
+ORG Gavina 
+ORG Gaynor 
+
+ORG Genevra 
+ORG Georganne 
+WORK_OF_ART Gerane 
+
+PERSON Gloriana 
+
+PERSON Gloris 
+PERSON Guinevere 
+
+
+PERSON Gwenyth 
+PERSON Heidi 
+
+
+
+
+NORP Imogine 
+
+NORP Irish 
+
+ORG Ivanell 
+PERSON Jaclyn 
+PERSON Jana 
+PERSON Janina 
+
+PERSON Jayce 
+NORP Jeanann 
+PERSON Jeffery 
+PERSON Jenette 
+NORP Jeneva 
+PERSON Jennett 
+ORG Jewelle 
+PERSON Johny 
+PERSON Jone 
+PERSON Julienne 
+NORP Juline 
+
+GPE Junnie 
+PERSON Karolyn 
+
+
+NORP Lajean 
+ORG Lamar 
+GPE Laruth 
+ORG Lassie 
+
+ORG Laurabelle 
+GPE Laurelle 
+
+
+
+
+
+PERSON Lisbeth 
+
+
+GPE Lorenia 
+GPE Lorina 
+
+
+
+GPE Lucendia 
+PERSON Ludmilla 
+
+PERSON Lurie 
+
+ORG Lynell 
+
+PERSON Mabeline 
+GPE Madgie 
+
+
+PERSON Malva 
+
+PERSON Mandie 
+PERSON Manon 
+ORG Manuelita 
+PERSON Margarie 
+
+PERSON Margit 
+
+
+ORG Marynell 
+ORG Maryon 
+ORG Maurita 
+
+ORG Maysel 
+
+NORP Melvine 
+
+ORG Merl 
+ORG Micheline 
+
+
+
+ORG Modell 
+
+ORG Myrel 
+PERSON Nance 
+PERSON Narcisa 
+
+
+PERSON Natsuko 
+ORG Neila 
+
+PERSON Nikki 
+
+PERSON Norvell 
+PERSON Novelle 
+
+PERSON Oddie 
+
+PERSON Olivette 
+ORG Onedia 
+
+
+PERSON Orrie 
+
+PERSON Paige 
+
+PERSON Pedro 
+
+
+GPE Providence 
+PERSON Rada 
+ORG Raylene 
+PERSON Reber 
+PERSON Reitha 
+
+ORG Renie 
+
+
+
+ORG Ronda 
+PERSON Rosaura 
+PERSON Roselean 
+PERSON Rosey 
+
+ORG Rozanne 
+
+PERSON Rubby 
+
+GPE Salina 
+
+PERSON Shellie 
+PERSON Sherrie 
+PERSON Shirleen 
+
+GPE Thirza 
+
+NORP Tomiko 
+ORG Toshie 
+
+PERSON Vadie 
+
+ORG Velvia 
+ORG Venna 
+GPE Ventura 
+
+
+
+ORG Virda 
+
+NORP Virjean 
+ORG Virlie 
+PERSON Viviana 
+
+PERSON Waldene 
+PERSON Wallace 
+
+PERSON Wanell 
+PERSON Wendy 
+
+ORG Winell 
+
+GPE Wretha 
+ORG Zeffie 
+
+
+ORG Adean 
+
+ORG Agueda 
+
+
+ORG Alexina 
+PERSON Alois 
+
+
+
+ORG Anamae 
+
+PERSON Anetta 
+PERSON Angline 
+
+
+PERSON Annella 
+
+PERSON Arbutis 
+
+
+
+
+
+
+PERSON Arnette 
+ORG Artemisa 
+
+
+
+ORG Audrae 
+DATE Autumn 
+
+ORG Avo 
+
+
+
+
+ORG Bettymae 
+PERSON Bianca 
+PERSON Binnie 
+PERSON Bobie 
+PERSON Bruna 
+
+
+
+
+
+ORG Channie 
+ORG Charlott 
+
+
+WORK_OF_ART Clarabel 
+
+
+
+ORG Cletis 
+
+
+PERSON Colleene 
+
+
+ORG Corda 
+ORG Cordell 
+
+PERSON Cornelius 
+ORG Cuma 
+PERSON Curlie 
+PERSON Damaris 
+
+
+PERSON Davina 
+PERSON Debby 
+PERSON Dela 
+PERSON Delbert 
+
+
+
+
+
+PERSON Dorian 
+PERSON Doyce 
+PERSON Doyle 
+
+
+
+
+ORG Edell 
+ORG Edelmira 
+ORG Eila 
+ORG Eileene 
+
+PERSON Eldred 
+
+
+PERSON Elgene 
+
+
+ORG Ellenora 
+PERSON Ellin 
+PERSON Elmyra 
+
+
+PERSON Elspeth 
+PERSON Elsye 
+PERSON Elvin 
+
+
+PERSON Emil 
+PERSON Emmalee 
+
+
+WORK_OF_ART Eppie 
+PERSON Erin 
+
+
+PERSON Ermalinda 
+PERSON Ernesteen 
+ORG Estalene 
+
+GPE Etna 
+ORG Etoile 
+PERSON Eutha 
+PERSON Evan 
+PERSON Evelin 
+
+
+PERSON Fatima 
+
+PERSON Fletcher 
+ORG Foye 
+
+
+ORG Fumie 
+
+
+
+ORG Genene 
+PERSON Generose 
+ORG Genetta 
+ORG Geneve 
+
+PERSON Gerd 
+
+PERSON Gilbert 
+PERSON Glennys 
+PERSON Glessie 
+ORG Glynda 
+PERSON Grethel 
+PERSON Gustava 
+
+ORG Harumi 
+PERSON Hazeline 
+
+
+ORG Hoover 
+
+PERSON Ileta 
+
+
+
+
+PERSON Ivan 
+ORG Izona 
+
+
+PERSON Jearlene 
+PERSON Jemima 
+GPE Jeneane 
+
+
+
+
+PERSON Jerolene 
+PERSON Jeroline 
+PERSON Jinnie 
+PERSON Jody 
+
+ORG Jonelle 
+ORG Jordis 
+PERSON Josefine 
+
+ORG Juell 
+PERSON Juna 
+
+PERSON Karl 
+
+PERSON Kathie 
+PERSON Kathleene 
+
+ORG Ladelle 
+ORG Ladona 
+
+PERSON Latha 
+
+
+PERSON Leann 
+PERSON Leanne 
+PERSON Lear 
+
+
+GPE Lenice 
+PERSON Lenor 
+
+PERSON Levina 
+
+PERSON Llewellyn 
+
+ORG Loreda 
+GPE Loretto 
+PERSON Lori 
+PERSON Lorie 
+WORK_OF_ART Lorriane 
+
+PERSON Lourine 
+ORG Lousie 
+
+PERSON Louvina 
+
+
+PERSON Lucella 
+PERSON Lucina 
+ORG Ludell 
+
+PERSON Lulla 
+PERSON Lummie 
+
+
+
+PERSON Malcolm 
+PERSON Mannie 
+
+
+PERSON Marialyce 
+PERSON Mariette 
+
+
+ORG Marvell 
+
+
+
+PERSON Matha 
+
+
+
+
+PERSON Merdis 
+GPE Merida 
+
+ORG Milderd 
+
+PERSON Mima 
+GPE Minette 
+ORG Miranda 
+PERSON Mollye 
+
+PERSON Mora 
+ORG Myna 
+PERSON Myriam 
+
+PERSON Nathaniel 
+PERSON Nattie 
+PERSON Neil 
+
+
+
+
+PERSON Ninette 
+PERSON Noelle 
+NORP Norberta 
+
+
+
+ORG Odelle 
+
+ORG Odis 
+ORG Olimpia 
+
+
+NORP Orean 
+PERSON Oria 
+
+ORG Orlena 
+
+
+
+
+ORG Ovida 
+
+
+
+PERSON Patt 
+
+PERSON Paulyne 
+
+PERSON Pierina 
+
+PERSON Pola 
+
+ORG Radie 
+PERSON Raul 
+PERSON Raymona 
+PERSON Rebie 
+PERSON Robbye 
+ORG Rosalinda 
+
+ORG Rosellen 
+ORG Roxane 
+
+
+PERSON Runette 
+
+PERSON Saundra 
+
+PERSON Selene 
+PERSON Sharleen 
+ORG Sherlene 
+PERSON Silva 
+ORG Simmie 
+
+ORG Solange 
+PERSON Steve 
+
+
+PERSON Sunya 
+PERSON Susannah 
+WORK_OF_ART Sybol 
+PERSON Tabitha 
+GPE Tennessee 
+
+PERSON Tobie 
+
+GPE Tomasina 
+
+PERSON Tonie 
+PERSON Trilby 
+
+
+PERSON Valora 
+PERSON Valorie 
+ORG Valrie 
+PERSON Vaughn 
+
+
+
+
+WORK_OF_ART Verina 
+PERSON Verlia 
+
+PERSON Vermelle 
+
+
+PERSON Vertis 
+PERSON Vincetta 
+ORG Vinie 
+ORG Vista 
+ORG Waldine 
+
+NORP Wardean 
+EVENT Wilba 
+PERSON Wilbur 
+PERSON Wilene 
+PERSON Wiletta 
+
+WORK_OF_ART Wilmoth 
+PERSON Winfred 
+PERSON Yoshiye 
+PERSON Ysidra 
+PERSON Zelphia 
+GPE Zenia 
+ORG Zenith 
+
+PERSON Aaron 
+PERSON Ader 
+
+PERSON Adrie 
+
+PERSON Alberto 
+
+
+ORG Aldena 
+GPE Aleane 
+
+
+
+PERSON Alina 
+PERSON Alleene 
+
+ORG Allice 
+GPE Alora 
+
+
+
+
+
+
+
+
+
+
+WORK_OF_ART Aria 
+
+PERSON Arlet 
+
+
+
+
+
+
+ORG Arnice 
+
+ORG Arra 
+
+
+
+ORG Arvis 
+
+
+ORG Attie 
+ORG Audray 
+PERSON Aune 
+
+ORG Autry 
+
+GPE Avon 
+
+PERSON Azelle 
+PERSON Babs 
+PERSON Beata 
+PERSON Beatrix 
+
+
+ORG Berdell 
+
+
+
+PERSON Berthel 
+PERSON Bertia 
+
+PERSON Bettey 
+
+PERSON Bob 
+
+PERSON Burdette 
+
+
+GPE Burnie 
+PERSON Byrd 
+PERSON Calista 
+PERSON Camelia 
+
+
+PERSON Carie 
+PERSON Carmalita 
+GPE Carmelia 
+NORP Carmeline 
+PERSON Carmita 
+PERSON Carmon 
+
+ORG Carrine 
+PERSON Cassandra 
+PERSON Cathlene 
+ORG Cecila 
+
+
+PERSON Charlye 
+
+
+
+ORG Christal 
+
+NORP Christian 
+ORG Christiana 
+PERSON Cladie 
+
+
+PERSON Clea 
+ORG Cledith 
+
+
+
+NORP Cloa 
+
+
+PERSON Cloyce 
+PERSON Collen 
+ORG Cordy 
+PERSON Coreta 
+
+
+PERSON Corliss 
+PERSON Corrina 
+ORG Cressie 
+PERSON Cumi 
+
+
+
+PERSON Darrel 
+
+WORK_OF_ART Delna 
+PERSON Delone 
+
+GPE Deltha 
+NORP Denese 
+PERSON Denny 
+PERSON Deon 
+
+
+PERSON Dickie 
+
+ORG Doloros 
+ORG Dolorse 
+
+PERSON Donia 
+
+
+
+PERSON Dorcus 
+
+
+
+
+PERSON Dott 
+
+PERSON Durene 
+PERSON Ebbie 
+
+PERSON Edmund 
+PERSON Edora 
+
+
+GPE Elane 
+
+
+PERSON Elfida 
+
+ORG Elloise 
+
+
+
+ORG Eloiza 
+GPE Elora 
+PERSON Emelyn 
+ORG Emery 
+
+ORG Emory 
+ORG Enda 
+WORK_OF_ART Ercel 
+
+
+PERSON Erwin 
+ORG Esteen 
+ORG Estel 
+
+
+
+ORG Evanell 
+
+PERSON Everlyn 
+
+
+
+ORG Faydell 
+ORG Felicie 
+PERSON Felix 
+
+ORG Ferrell 
+ORG Floella 
+
+
+ORG Floride 
+
+ORG Florina 
+
+ORG Francene 
+
+
+PERSON Gabriela 
+
+PERSON Garland 
+
+ORG Gearline 
+
+ORG Genella 
+
+PERSON Geralene 
+
+PERSON Ginny 
+PERSON Glayds 
+
+ORG Glendoris 
+ORG Glossie 
+
+
+PERSON Gracy 
+PERSON Gwendoline 
+
+
+
+PERSON Hatty 
+ORG Haydee 
+
+ORG Hazell 
+GPE Hazelle 
+
+PERSON Henri 
+PERSON Hermie 
+PERSON Hermila 
+
+
+
+
+
+ORG Inda 
+GPE Indiana 
+
+
+
+
+
+GPE Isola 
+
+
+ORG Ivadelle 
+
+
+
+PERSON Janann 
+PERSON Janella 
+
+PERSON Jasmine 
+PERSON Jeaninne 
+PERSON Jeanmarie 
+GPE Jearlean 
+
+PERSON Jerre 
+PERSON Joeanna 
+PERSON Joey 
+PERSON Josette 
+ORG Julieta 
+
+PERSON Junette 
+GPE Junice 
+GPE Kalliope 
+PERSON Karoline 
+
+
+PERSON Kennie 
+PERSON Kiki 
+PERSON Kimi 
+ORG Lacie 
+ORG Ladell 
+WORK_OF_ART Ladye 
+PERSON Lael 
+PERSON Lajoyce 
+WORK_OF_ART Lakie 
+PERSON Lamona 
+
+
+
+PERSON Lauralee 
+PERSON Laurence 
+
+PERSON Leandra 
+
+PERSON Ledell 
+
+
+PERSON Leonie 
+GPE Leotta 
+PERSON Lethea 
+
+PERSON Levi 
+PERSON Liana 
+PERSON Liane 
+
+ORG Lille 
+ORG Linna 
+
+ORG Lonell 
+PERSON Lorane 
+
+
+
+
+
+
+GPE Louvinia 
+PERSON Lovelle 
+
+PERSON Lucette 
+PERSON Lucine 
+PERSON Luddie 
+PERSON Ludene 
+
+
+
+PERSON Lyndal 
+ORG Lyndel 
+GPE Lyvonne 
+
+PERSON Mack 
+GPE Macon 
+
+PERSON Magda 
+
+
+GPE Marda 
+
+
+
+
+PERSON Margurette 
+PERSON Mariadejesus 
+
+ORG Marilouise 
+ORG Maris 
+
+
+
+ORG Marylen 
+PERSON Maryruth 
+
+
+PERSON Mearl 
+
+ORG Melma 
+PERSON Meredyth 
+
+PERSON Merilee 
+PERSON Merri 
+
+
+
+ORG Michie 
+
+ORG Minda 
+GPE Mineola 
+
+GPE Misako 
+PERSON Miyo 
+ORG Modine 
+PERSON Monique 
+
+PERSON Murrell 
+PERSON Murry 
+ORG Musetta 
+
+GPE Myrla 
+PERSON Myrth 
+GPE Nadeane 
+
+
+
+GPE Natha 
+GPE Nazarene 
+PERSON Necie 
+PERSON Nelson 
+
+
+PERSON Norbert 
+ORG Noreene 
+PERSON Novalene 
+ORG Novell 
+
+
+
+
+
+PERSON Omar 
+PERSON Ottilie 
+GPE Ovedia 
+ORG Ovelia 
+GPE Palestine 
+GPE Palmira 
+
+ORG Parthena 
+
+
+
+PERSON Perle 
+
+PERSON Pete 
+ORG Petronilla 
+
+
+ORG Piccola 
+
+PERSON Pocahontas 
+ORG Pomposa 
+GPE Pura 
+
+
+PERSON Rafael 
+
+ORG Redell 
+PERSON Reina 
+PERSON Renata 
+
+PERSON Richie 
+PERSON Riley 
+
+PERSON Robyn 
+
+ORG Rollande 
+PERSON Romelda 
+
+ORG Rosalba 
+
+
+GPE Rovenia 
+PERSON Ruthalee 
+
+
+GPE Sadye 
+
+NORP Sevilla 
+PERSON Sheba 
+
+
+PERSON Sulema 
+PERSON Sumi 
+PERSON Suzan 
+PERSON Syvilla 
+
+PERSON Takako 
+
+PERSON Teckla 
+
+ORG Tera 
+ORG Thelmer 
+PERSON Theron 
+PERSON Thetis 
+
+ORG Tonita 
+PERSON Tracy 
+
+
+ORG Valborg 
+
+
+
+ORG Valoy 
+PERSON Vanna 
+
+WORK_OF_ART Veatrice 
+
+
+
+PERSON Verene 
+
+
+
+
+
+PERSON Vickey 
+
+
+ORG Virdell 
+ORG Virdia 
+
+ORG Virsie 
+PERSON Viviane 
+
+PERSON Wanona 
+ORG Warner 
+ORG Waunetta 
+PERSON Wessie 
+PERSON Wilber 
+ORG Wilena 
+ORG Wilfred 
+PERSON Wilhemenia 
+
+
+
+PERSON Wynette 
+ORG Wynne 
+
+
+
+GPE Yvonna 
+PERSON Zana 
+
+
+PERSON Zillah 
+GPE Zollie 
+
+GPE Adabelle 
+ORG Adelyne 
+PERSON Adonna 
+PERSON Adora 
+PERSON Adrena 
+PERSON Adria 
+
+ORG Alamae 
+
+PERSON Aleita 
+NORP Alese 
+PERSON Alfonso 
+
+
+
+
+
+PERSON Aloise 
+PERSON Alona 
+PERSON Alonzo 
+
+
+
+PERSON Alyse 
+PERSON Amelie 
+ORG Amye 
+GPE Angele 
+ORG Angelena 
+PERSON Angelia 
+GPE Angelyn 
+ORG Annah 
+
+PERSON Anneliese 
+PERSON Annett 
+PERSON Anselma 
+PERSON Arlo 
+PERSON Armande 
+
+ORG Armie 
+PERSON Arnett 
+PERSON Arnie 
+EVENT Arveta 
+
+
+ORG Asalee 
+ORG Athalee 
+ORG Athelene 
+ORG Audrene 
+DATE August 
+
+ORG Avril 
+
+ORG Ayleen 
+
+
+ORG Barbro 
+
+
+
+ORG Benna 
+
+
+NORP Berla 
+
+PERSON Bertine 
+
+PERSON Bessye 
+GPE Bettyanne 
+PERSON Beverlye 
+
+PERSON Birdella 
+
+
+
+
+PERSON Blythe 
+
+ORG Boneta 
+GPE Bonnetta 
+PERSON Boyce 
+PERSON Brady 
+
+ORG Bryna 
+
+
+
+PERSON Burdie 
+PERSON Byrdie 
+GPE Caldonia 
+ORG Calliope 
+
+ORG Candis 
+PERSON Caridad 
+PERSON Carlton 
+ORG Carmelle 
+ORG Carmie 
+PERSON Carmilla 
+PERSON Carnie 
+PERSON Caro 
+PERSON Caryle 
+
+GPE Catheryne 
+
+
+ORG Celena 
+WORK_OF_ART Cesaria 
+PERSON Charis 
+
+
+ORG Charmayne 
+PERSON Cheri 
+
+ORG Christel 
+
+
+PERSON Clady 
+
+
+
+
+ORG Cleatis 
+
+
+
+
+
+
+PERSON Cloris 
+
+
+
+
+PERSON Coella 
+NORP Coeta 
+
+
+
+
+ORG Coralene 
+PERSON Coralyn 
+PERSON Corky 
+ORG Correne 
+
+PERSON Creta 
+
+ORG Cyrena 
+
+PERSON Dalton 
+PERSON Danny 
+PERSON Darcus 
+PERSON Darcy 
+
+
+
+ORG Dea 
+PERSON Deette 
+PERSON Deirdre 
+
+PERSON Deliah 
+
+
+PERSON Deloria 
+
+PERSON Delouris 
+
+GPE Delsa 
+
+ORG Devera 
+
+
+
+PERSON Dick 
+GPE Dilia 
+PERSON Dione 
+
+
+PERSON Dominick 
+
+GPE Donnetta 
+
+NORP Doralyn 
+
+
+
+
+
+
+
+GPE Dorreen 
+ORG Dosha 
+PERSON Dudley 
+PERSON Duella 
+
+
+PERSON Earnie 
+PERSON Easther 
+PERSON Editha 
+
+PERSON Edmona 
+
+ORG Eduviges 
+
+ORG Eladia 
+
+PERSON Eldoris 
+
+PERSON Eleonora 
+NORP Eletha 
+PERSON Elijah 
+
+NORP Eljean 
+
+
+
+
+
+ORG Elona 
+PERSON Elton 
+
+ORG Elveda 
+
+
+PERSON Elvis 
+PERSON Elwood 
+
+
+
+
+
+
+
+PERSON Eralia 
+NORP Ermadean 
+
+ORG Ermie 
+
+ORG Ersel 
+
+ORG Estalee 
+
+
+PERSON Ethelind 
+
+
+
+ORG Eudell 
+
+
+
+GPE Eunie 
+ORG Evalou 
+
+PERSON Everette 
+PERSON Everleaner 
+
+
+ORG Evora 
+
+
+
+
+PERSON Felecia 
+PERSON Felicidad 
+
+ORG Florabell 
+ORG Fonnie 
+ORG Francess 
+
+NORP Fredine 
+PERSON Fredrick 
+PERSON Gabriel 
+
+EVENT Garda 
+ORG Gardenia 
+
+PERSON Gary 
+ORG Gaynel 
+ORG Gazella 
+
+
+
+NORP Genese 
+PERSON Genevea 
+
+PERSON Gennette 
+ORG Genola 
+
+ORG Geral 
+PERSON Geraldyn 
+
+PERSON Gerdie 
+PERSON Gerladine 
+
+ORG Gila 
+ORG Girlene 
+PERSON Gisele 
+
+PERSON Glenrose 
+
+PERSON Goldy 
+PERSON Gracey 
+
+PERSON Gregory 
+PERSON Grover 
+PERSON Guelda 
+ORG Guyla 
+ORG Gwendolen 
+ORG Gwenn 
+
+NORP Gypsie 
+PERSON Hanako 
+GPE Hattye 
+ORG Hellena 
+GPE Herberta 
+PERSON Hilary 
+ORG Hinda 
+PERSON Honore 
+
+
+ORG Hyla 
+ORG Idabell 
+ORG Idolina 
+
+
+
+ORG Isidra 
+GPE Italia 
+
+ORG Ivagene 
+PERSON Iver 
+PERSON Ivor 
+ORG Iyla 
+PERSON Jacklin 
+PERSON Jacob 
+PERSON Jacoba 
+
+PERSON Jacquilyn 
+
+ORG Jammie 
+PERSON Janne 
+PERSON Jaye 
+GPE Jeaneane 
+GPE Jeaneen 
+
+
+PERSON Jenevieve 
+ORG Jerusha 
+PERSON Jewelene 
+
+
+PERSON Jodean 
+PERSON Johan 
+
+PERSON Jonna 
+NORP Josina 
+
+GPE Juanelle 
+PERSON Juaquina 
+
+
+PERSON Justyn 
+
+
+PERSON Kather 
+PERSON Kathrin 
+
+ORG Kazuyo 
+PERSON Kendall 
+PERSON Kenna 
+
+ORG Kinue 
+PERSON Kristine 
+
+
+PERSON Lafaye 
+PERSON Lalla 
+
+
+PERSON Lanette 
+ORG Laney 
+PERSON Larose 
+PERSON Laural 
+PERSON Laureen 
+
+
+PERSON Lavita 
+
+
+GPE Leaster 
+ORG Lemmie 
+GPE Leonette 
+
+NORP Lerline 
+
+
+ORG Levonne 
+PERSON Lew 
+
+
+
+PERSON Lile 
+ORG Lilias 
+
+PERSON Lillias 
+
+
+GPE Lima 
+ORG Lionor 
+
+PERSON Livia 
+
+
+
+PERSON Lorelle 
+PERSON Lorne 
+
+NORP Loueva 
+ORG Loveda 
+
+
+
+ORG Lucita 
+PERSON Lucrecia 
+NORP Ludella 
+ORG Luell 
+PERSON Luis 
+ORG Lurine 
+
+
+
+ORG Lyndell 
+
+
+
+GPE Madline 
+NORP Madora 
+
+
+
+PERSON Marcel 
+GPE Marcele 
+
+
+
+
+
+
+PERSON Margerie 
+PERSON Margretha 
+
+ORG Marialuisa 
+PERSON Mariea 
+PERSON Marielle 
+
+
+
+
+PERSON Mario 
+PERSON Marjarie 
+
+PERSON Marliss 
+PERSON Marlyne 
+
+DATE Martie 
+
+
+ORG Marybell 
+
+NORP Marzelle 
+ORG Masel 
+PERSON Matthew 
+ORG Mauda 
+
+
+GPE Mauna 
+PERSON Mauricia 
+
+
+
+PERSON Maybeth 
+
+PERSON Mayre 
+
+
+GPE Meddie 
+GPE Melia 
+ORG Mell 
+PERSON Melvyn 
+
+
+ORG Merion 
+PERSON Merlie 
+NORP Mertha 
+
+
+ORG Mickelena 
+
+ORG Modenia 
+ORG Monita 
+ORG Morine 
+
+GPE Moselle 
+
+PERSON Murielle 
+
+
+
+
+PERSON Nanna 
+
+
+
+
+
+ORG Nava 
+PERSON Nealy 
+
+PERSON Neely 
+PERSON Neville 
+
+ORG Nicholina 
+PERSON Nick 
+PERSON Noriko 
+
+
+
+
+GPE Olgie 
+PERSON Olie 
+
+
+ORG Omalee 
+
+ORG Onda 
+PERSON Onelia 
+ORG Onell 
+ORG Onetta 
+
+PERSON Onnalee 
+
+PERSON Orbie 
+
+
+WORK_OF_ART Oreatha 
+
+
+ORG Orie 
+ORG Orline 
+ORG Ormah 
+
+GPE Osceola 
+GPE Othel 
+GPE Ouita 
+
+
+
+PERSON Parlie 
+PERSON Patsye 
+PERSON Pearletta 
+
+ORG Pearlina 
+
+ORG Peggyann 
+
+
+PERSON Pinkey 
+
+
+PERSON Preston 
+
+
+
+PERSON Randall 
+
+NORP Rebbecca 
+PERSON Ree 
+
+PERSON Refujio 
+ORG Regis 
+
+PERSON Rethel 
+
+
+ORG Rissie 
+
+ORG Riva 
+PERSON Robertia 
+
+PERSON Robina 
+PERSON Rodney 
+
+PERSON Romain 
+ORG Romie 
+
+PERSON Roosevelt 
+
+
+
+
+
+ORG Rubell 
+WORK_OF_ART Rubena 
+
+
+
+
+PERSON Salena 
+PERSON Salvatore 
+ORG Samuella 
+PERSON Sanna 
+GPE Santiago 
+GPE Sarajane 
+PERSON Satsuki 
+PERSON Scott 
+PERSON Seferina 
+GPE Senia 
+
+
+PERSON Sheri 
+
+
+
+
+
+PERSON Sidonia 
+GPE Sonora 
+
+ORG Suyeko 
+
+
+ORG Takeko 
+ORG Tama 
+ORG Tamar 
+PERSON Tania 
+ORG Tempy 
+PERSON Tereza 
+PERSON Terrie 
+PERSON Tessa 
+ORG Tharon 
+ORG Therma 
+
+PERSON Tisha 
+ORG Toma 
+ORG Tomi 
+PERSON Topsy 
+ORG Totsie 
+PERSON Toula 
+
+
+PERSON Trine 
+NORP Trini 
+PERSON Trixie 
+
+ORG Tsuneko 
+
+
+
+
+
+PERSON Valery 
+PERSON Vanessa 
+
+PERSON Veleria 
+PERSON Venetia 
+PERSON Venie 
+ORG Venola 
+
+NORP Verdean 
+PERSON Verdene 
+PERSON Verga 
+
+
+
+
+
+PERSON Verva 
+ORG Vestal 
+
+
+GPE Vincenta 
+
+ORG Vivia 
+
+PERSON Wana 
+PERSON Waneita 
+GPE Wannetta 
+PERSON Wardell 
+PERSON Warrene 
+PERSON Wetona 
+
+
+PERSON Wille 
+PERSON Willella 
+
+NORP Wilodean 
+
+
+PERSON Wynetta 
+PERSON Wyvonne 
+GPE Yuvonne 
+PERSON Zaddie 
+PERSON Zaida 
+PERSON Zelline 
+GPE Zelna 
+PERSON Zenna 
+PERSON Zenola 
+

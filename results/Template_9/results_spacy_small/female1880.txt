@@ -1,0 +1,942 @@
+PERSON Mary 
+ORG Anna 
+ORG Emma 
+PERSON Elizabeth 
+ORG Minnie 
+ORG Margaret 
+ORG Ida 
+
+
+ORG Sarah 
+ORG Annie 
+ORG Clara 
+
+ORG Florence 
+ORG Cora 
+PERSON Martha 
+ORG Laura 
+ORG Nellie 
+ORG Grace 
+
+
+PERSON Mabel 
+ORG Bessie 
+ORG Jennie 
+
+GPE Julia 
+ORG Hattie 
+ORG Edith 
+ORG Mattie 
+
+ORG Catherine 
+ORG Lillian 
+
+
+ORG Helen 
+ORG Jessie 
+ORG Louise 
+
+ORG Lula 
+ORG Myrtle 
+PERSON Eva 
+ORG Frances 
+ORG Lena 
+PERSON Lucy 
+
+ORG Maggie 
+ORG Pearl 
+
+ORG Fannie 
+ORG Josephine 
+ORG Dora 
+ORG Rosa 
+ORG Katherine 
+
+ORG Marie 
+PERSON Nora 
+DATE May 
+ORG Mamie 
+ORG Blanche 
+ORG Stella 
+ORG Ellen 
+PERSON Nancy 
+ORG Effie 
+ORG Sallie 
+ORG Nettie 
+
+
+ORG Flora 
+ORG Susie 
+
+
+ORG Etta 
+ORG Harriet 
+PERSON Sadie 
+
+ORG Katie 
+ORG Lydia 
+ORG Elsie 
+PERSON Kate 
+PERSON Susan 
+ORG Mollie 
+
+ORG Addie 
+GPE Georgia 
+GPE Eliza 
+ORG Lulu 
+ORG Nannie 
+ORG Lottie 
+ORG Amanda 
+GPE Belle 
+ORG Charlotte 
+ORG Rebecca 
+PERSON Ruth 
+ORG Viola 
+
+GPE Amelia 
+ORG Hannah 
+ORG Jane 
+GPE Virginia 
+ORG Emily 
+ORG Matilda 
+ORG Irene 
+ORG Kathryn 
+
+ORG Willie 
+
+ORG Ollie 
+ORG Amy 
+ORG Rachel 
+GPE Sara 
+ORG Estella 
+ORG Theresa 
+
+ORG Ora 
+
+ORG Josie 
+ORG Lola 
+ORG Sophia 
+PERSON Leona 
+ORG Anne 
+
+PERSON Ann 
+ORG Beulah 
+ORG Callie 
+PERSON Lou 
+GPE Delia 
+
+PERSON Barbara 
+
+ORG Louisa 
+ORG Maria 
+ORG Mayme 
+ORG Evelyn 
+ORG Estelle 
+ORG Nina 
+PERSON Betty 
+
+ORG Bettie 
+PERSON Dorothy 
+ORG Luella 
+ORG Inez 
+ORG Lela 
+ORG Rosie 
+DATE Allie 
+
+PERSON Janie 
+
+GPE Victoria 
+
+
+ORG Alta 
+
+ORG Christine 
+ORG Beatrice 
+ORG Birdie 
+ORG Harriett 
+
+ORG Myra 
+ORG Sophie 
+ORG Tillie 
+
+ORG Sylvia 
+PERSON Carolyn 
+ORG Isabelle 
+ORG Leila 
+
+
+ORG Essie 
+ORG Bertie 
+
+GPE Alberta 
+ORG Katharine 
+PERSON Lora 
+ORG Rena 
+ORG Mina 
+PERSON Rhoda 
+ORG Mathilda 
+PERSON Abbie 
+
+ORG Dollie 
+
+
+
+
+PERSON Lenora 
+
+
+ORG Lelia 
+ORG Nelle 
+
+ORG Johanna 
+ORG Lilly 
+ORG Lucinda 
+ORG Minerva 
+PERSON Lettie 
+
+ORG Cynthia 
+GPE Helena 
+
+ORG Hulda 
+ORG Bernice 
+ORG Genevieve 
+PERSON Jean 
+GPE Cordelia 
+ORG Marian 
+ORG Francis 
+ORG Jeanette 
+ORG Adeline 
+ORG Gussie 
+
+
+ORG Lura 
+ORG Mittie 
+PERSON Hallie 
+PERSON Isabella 
+
+
+ORG Teresa 
+ORG Hester 
+PERSON Lida 
+ORG Lina 
+ORG Winnie 
+GPE Claudia 
+NORP Marguerite 
+ORG Vera 
+GPE Cecelia 
+
+ORG Emilie 
+ORG John 
+ORG Rosetta 
+ORG Verna 
+ORG Myrtie 
+GPE Cecilia 
+
+ORG Olivia 
+GPE Ophelia 
+ORG Georgie 
+ORG Elnora 
+ORG Violet 
+ORG Adele 
+
+ORG Linnie 
+ORG Loretta 
+ORG Madge 
+
+ORG Virgie 
+GPE Eugenia 
+ORG Lucile 
+ORG Lucille 
+ORG Mabelle 
+
+ORG Kittie 
+
+ORG Angie 
+ORG Dessie 
+ORG Georgiana 
+
+
+ORG Selma 
+GPE Wilhelmina 
+
+ORG Lilla 
+ORG Malinda 
+PERSON Vina 
+ORG Freda 
+ORG Gertie 
+ORG Jeannette 
+
+ORG Mandy 
+ORG Roberta 
+ORG Cassie 
+ORG Corinne 
+
+ORG Melissa 
+ORG Lyda 
+ORG Naomi 
+
+ORG Bell 
+ORG Margie 
+
+ORG Zella 
+
+ORG Elvira 
+
+
+ORG Leota 
+PERSON William 
+
+
+
+ORG Lorena 
+ORG Lucretia 
+ORG Orpha 
+GPE Alvina 
+
+ORG Catharine 
+
+GPE Geneva 
+ORG Janet 
+PERSON Lee 
+ORG Leora 
+ORG Lona 
+ORG Miriam 
+PERSON Zora 
+PERSON Linda 
+ORG Octavia 
+ORG Sudie 
+PERSON Zula 
+ORG Adella 
+ORG Alpha 
+
+ORG George 
+ORG Joanna 
+GPE Leonora 
+
+ORG Tennie 
+
+PERSON Docia 
+ORG Ettie 
+ORG Flossie 
+ORG Hanna 
+PERSON Letha 
+GPE Minta 
+PERSON Retta 
+ORG Rosella 
+
+GPE Berta 
+ORG Elisabeth 
+
+ORG Goldie 
+ORG Leola 
+
+ORG Adaline 
+ORG Floy 
+
+ORG Juanita 
+GPE Lenna 
+
+GPE Missouri 
+ORG Nola 
+ORG Zoe 
+ORG Eda 
+ORG Isabell 
+PERSON James 
+PERSON Julie 
+PERSON Letitia 
+
+ORG Malissa 
+
+ORG Pattie 
+ORG Vivian 
+
+
+ORG Claire 
+
+
+ORG Jannie 
+ORG Kathleen 
+
+ORG Lavinia 
+ORG Marietta 
+ORG Melvina 
+
+
+
+GPE Susanna 
+ORG Chloe 
+ORG Donnie 
+ORG Elsa 
+
+GPE Matie 
+
+ORG Vesta 
+ORG Vinnie 
+ORG Antoinette 
+
+
+ORG Harriette 
+ORG Libbie 
+ORG Lilian 
+
+ORG Lutie 
+ORG Magdalena 
+
+ORG Rita 
+ORG Tena 
+GPE Zelma 
+
+ORG Annetta 
+GPE Antonia 
+PERSON Dona 
+ORG Elizebeth 
+ORG Georgianna 
+
+
+ORG Lessie 
+
+
+PERSON Mertie 
+
+ORG Neva 
+
+GPE Alida 
+PERSON Alva 
+
+
+
+ORG Ellie 
+
+
+ORG Frankie 
+
+ORG Minna 
+
+
+
+ORG Rilla 
+ORG Savannah 
+ORG Tessie 
+
+
+GPE America 
+ORG Anita 
+GPE Arminta 
+ORG Dorothea 
+ORG Ira 
+GPE Luvenia 
+ORG Marjorie 
+ORG Maybelle 
+ORG Mellie 
+
+ORG Pearlie 
+
+ORG Velma 
+
+ORG Constance 
+
+ORG Ila 
+ORG Iola 
+ORG Jimmie 
+GPE Louvenia 
+PERSON Lucia 
+ORG Ludie 
+
+ORG Metta 
+PERSON Patsy 
+
+GPE Sophronia 
+ORG Adda 
+ORG Avis 
+ORG Betsy 
+PERSON Bonnie 
+ORG Cecil 
+ORG Cordie 
+
+ORG Ethelyn 
+ORG Hortense 
+DATE June 
+ORG Louie 
+
+GPE Marcella 
+GPE Melinda 
+ORG Mona 
+
+
+ORG Aimee 
+PERSON Annabel 
+ORG Ava 
+ORG Bella 
+GPE Carolina 
+ORG Cathrine 
+ORG Christena 
+ORG Clyde 
+GPE Dena 
+
+
+
+ORG Fay 
+ORG Frank 
+ORG Jenny 
+
+ORG Lonnie 
+
+ORG Magdalene 
+ORG Mettie 
+ORG Mintie 
+ORG Peggy 
+
+ORG Serena 
+
+ORG Zada 
+ORG Abigail 
+
+GPE Celina 
+ORG Claudie 
+ORG Clemmie 
+ORG Connie 
+GPE Daisie 
+ORG Deborah 
+ORG Dessa 
+
+ORG Eddie 
+ORG Emelia 
+ORG Emmie 
+
+GPE India 
+ORG Jeanne 
+PERSON Joan 
+
+ORG Liddie 
+PERSON Lotta 
+ORG Mame 
+GPE Nevada 
+GPE Rachael 
+PERSON Robert 
+GPE Sina 
+ORG Willa 
+
+
+ORG Charles 
+ORG Daisey 
+ORG Dorcas 
+GPE Edmonia 
+ORG Effa 
+ORG Eldora 
+
+
+
+ORG Gena 
+ORG Henry 
+ORG Iris 
+ORG Izora 
+ORG Lennie 
+ORG Lissie 
+
+GPE Malvina 
+ORG Mathilde 
+ORG Mazie 
+ORG Queenie 
+ORG Rosina 
+
+ORG Theodora 
+NORP Therese 
+ORG Vena 
+PERSON Wanda 
+
+
+ORG Anastasia 
+GPE Besse 
+ORG Bird 
+ORG Birtie 
+ORG Clarissa 
+
+ORG Delilah 
+ORG Diana 
+
+ORG Erna 
+
+GPE Florida 
+ORG Frona 
+GPE Hilma 
+PERSON Joseph 
+ORG Juliet 
+
+GPE Lugenia 
+ORG Mammie 
+ORG Manda 
+ORG Manerva 
+ORG Manie 
+ORG Nella 
+
+GPE Philomena 
+
+GPE Selina 
+
+ORG Theodosia 
+ORG Tommie 
+ORG Una 
+PERSON Vernie 
+ORG Adela 
+PERSON Althea 
+
+DATE Amber 
+
+ORG Annabelle 
+
+PERSON Arie 
+
+ORG Corda 
+ORG Corrie 
+
+
+ORG Donie 
+ORG Doris 
+
+
+
+
+PERSON Esta 
+ORG Estell 
+
+ORG Fred 
+
+GPE Indiana 
+
+
+ORG Johnnie 
+ORG Josiephine 
+ORG Kitty 
+ORG Lavina 
+ORG Leda 
+ORG Letta 
+GPE Mahala 
+PERSON Marcia 
+ORG Margarette 
+ORG Maudie 
+
+PERSON Norah 
+
+PERSON Patty 
+ORG Paula 
+GPE Permelia 
+ORG Rosalia 
+ORG Roxanna 
+ORG Sula 
+GPE Vada 
+
+
+
+ORG Alvena 
+GPE Arizona 
+GPE Becky 
+
+ORG Bernadette 
+ORG Camille 
+ORG Cordia 
+ORG Corine 
+
+
+
+ORG Elena 
+PERSON Elenora 
+ORG Elmina 
+
+
+PERSON Evelina 
+ORG Faye 
+
+ORG Idell 
+ORG Inga 
+ORG Irena 
+ORG Jewell 
+ORG Kattie 
+ORG Lavenia 
+ORG Leslie 
+GPE Lovina 
+ORG Lulie 
+
+ORG Margeret 
+
+ORG Media 
+
+ORG Nena 
+
+ORG Orilla 
+ORG Osie 
+
+PERSON Ray 
+ORG Rosia 
+ORG Rowena 
+ORG Shirley 
+
+ORG Thomas 
+GPE Verdie 
+ORG Walter 
+PERSON Zetta 
+
+PERSON Zona 
+GPE Albertina 
+GPE Albina 
+ORG Alyce 
+
+ORG Angela 
+
+ORG Carol 
+ORG Carra 
+
+ORG Clarinda 
+ORG Delphia 
+
+PERSON Doshie 
+
+ORG Etna 
+ORG Eugenie 
+GPE Eulalia 
+
+PERSON Felicia 
+
+
+ORG Geraldine 
+ORG Gina 
+
+ORG Grayce 
+
+PERSON Jessica 
+GPE Jossie 
+ORG Katheryn 
+ORG Katy 
+
+ORG Leanna 
+
+ORG Leone 
+ORG Lidie 
+
+
+ORG Magdalen 
+ORG Maymie 
+GPE Minervia 
+
+
+
+ORG Onie 
+
+GPE Otelia 
+ORG Paralee 
+
+ORG Rella 
+ORG Rillie 
+
+ORG Theo 
+
+
+ORG Tressa 
+
+ORG Yetta 
+ORG Zena 
+PERSON Zola 
+PERSON Abby 
+
+ORG Alba 
+
+
+GPE Alverta 
+
+GPE Ardelia 
+
+PERSON Arrie 
+ORG Arvilla 
+ORG Augustine 
+ORG Aurora 
+ORG Bama 
+ORG Bena 
+
+ORG Calla 
+ORG Camilla 
+PERSON Carey 
+ORG Carlotta 
+
+ORG Cherry 
+ORG Cinda 
+ORG Classie 
+
+ORG Clemie 
+ORG Clifford 
+ORG Clyda 
+
+ORG Debbie 
+
+PERSON Dinah 
+
+
+
+ORG Eleanora 
+ORG Electa 
+
+ORG Erie 
+
+ORG Euphemia 
+
+ORG Evaline 
+ORG Faith 
+
+ORG Freddie 
+ORG Golda 
+PERSON Harry 
+ORG Helma 
+ORG Hermine 
+GPE Hessie 
+
+ORG Janette 
+ORG Jennette 
+ORG Joella 
+ORG Kathryne 
+PERSON Lacy 
+ORG Lanie 
+ORG Lauretta 
+ORG Leana 
+ORG Leatha 
+
+PERSON Liller 
+PERSON Lillis 
+ORG Louetta 
+ORG Madie 
+
+ORG Martina 
+ORG Maryann 
+PERSON Melva 
+ORG Mena 
+ORG Mercedes 
+ORG Merle 
+ORG Mima 
+GPE Minda 
+PERSON Monica 
+ORG Nealie 
+ORG Netta 
+GPE Nolia 
+ORG Nonie 
+
+ORG Ottilie 
+ORG Phyllis 
+PERSON Robbie 
+
+PERSON Sada 
+ORG Sammie 
+
+ORG Sybilla 
+
+ORG Tressie 
+ORG Vallie 
+ORG Venie 
+ORG Viney 
+ORG Wilhelmine 
+GPE Winona 
+ORG Zelda 
+ORG Zilpha 
+GPE Adelle 
+GPE Adina 
+ORG Adrienne 
+ORG Albertine 
+ORG Alys 
+
+ORG Araminta 
+ORG Arthur 
+ORG Birtha 
+ORG Bulah 
+ORG Caddie 
+ORG Celie 
+ORG Charlotta 
+ORG Clair 
+ORG Concepcion 
+ORG Cordella 
+ORG Corrine 
+ORG Delila 
+ORG Delphine 
+ORG Dosha 
+ORG Edgar 
+ORG Elaine 
+ORG Elisa 
+ORG Ellar 
+
+
+ORG Ena 
+ORG Estie 
+
+
+ORG Genie 
+
+PERSON Glenn 
+ORG Gracia 
+ORG Guadalupe 
+ORG Gwendolyn 
+ORG Hassie 
+ORG Honora 
+
+ORG Isa 
+ORG Isadora 
+PERSON Jesse 
+ORG Jewel 
+PERSON Joe 
+
+ORG Juana 
+PERSON Judith 
+PERSON Judy 
+ORG Junie 
+ORG Lavonia 
+ORG Lella 
+ORG Lemma 
+ORG Letty 
+ORG Linna 
+ORG Littie 
+ORG Lollie 
+
+ORG Louis 
+
+ORG Lovisa 
+GPE Lucina 
+ORG Lynn 
+PERSON Madora 
+
+ORG Manervia 
+ORG Manuela 
+ORG Margarett 
+ORG Margaretta 
+ORG Margarita 
+ORG Marilla 
+ORG Mignon 
+
+ORG Natalie 
+ORG Nelia 
+ORG Nolie 
+ORG Omie 
+ORG Opal 
+ORG Ossie 
+ORG Ottie 
+ORG Ottilia 
+GPE Parthenia 
+GPE Penelope 
+ORG Pinkey 
+
+
+ORG Reta 
+ORG Roena 
+ORG Rosalee 
+ORG Roseanna 
+ORG Ruthie 
+PERSON Sabra 
+
+ORG Selena 
+
+PERSON Tella 
+
+GPE Tennessee 
+
+GPE Texas 
+
+ORG Thelma 
+
+ORG Ula 
+ORG Vannie 
+ORG Verona 
+ORG Vertie 
+ORG Wilma 
