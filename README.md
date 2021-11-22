@@ -9,6 +9,7 @@ Will produce results from Flair model on Template number 1 and will output the r
 
 Referenced paper link:
 https://arxiv.org/abs/1910.10872
+```
 cite
 @article{mehrabi2019man,
   title={Man is to Person as Woman is to Location: Measuring Gender Bias in Named Entity Recognition},
@@ -16,3 +17,4 @@ cite
   journal={arXiv preprint arXiv:1910.10872},
   year={2019}
 }
+```
